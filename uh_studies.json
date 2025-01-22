@@ -1,0 +1,63 @@
+[
+    {
+        "id": "main_u_ingenior",
+        "innholdstype": "utdanningsbeskrivelse",
+        "interesser": [
+            "Realfag",
+            "Teknologi"
+        ],
+        "sokeord": [
+            "ingeniørutdanning",
+            "ingeniører"
+        ],
+        "sokeord_suggest": [
+            "ingeniørutdanning",
+            "ingeniører"
+        ],
+        "sokeord_suggest_edge": [
+            "ingeniørutdanning",
+            "ingeniører"
+        ],
+        "sokeord_suggest_ngram": [
+            "ingeniørutdanning",
+            "ingeniører"
+        ],
+        "sokeord_s": [
+            "ingeniørutdanning",
+            "ingeniører"
+        ],
+        "stat_vis_arb_markedskart": "no",
+        "stat_vis_lonnstat": 0,
+        "stat_vis_sammenligning": 1,
+        "summary": "En ingeniørutdanning kombinerer realfag og teknologifag, og gir kunnskap om samspillet mellom teknologi, miljø og samfunn.",
+        "tittel": "Ingeniør",
+        "title_suggest": [
+            "Ingeniør"
+        ],
+        "title_suggest_edge": [
+            "Ingeniør"
+        ],
+        "title_suggest_ngram": [
+            "Ingeniør"
+        ],
+        "title_s": [
+            "Ingeniør"
+        ],
+        "uno_id": "u_ingenior",
+        "update_hash": "3bb18dd98e14a2d0211620c41f1c8abb",
+        "url": "https://utdanning.no/utdanningsoversikt/ingenior",
+        "utdanningstype": [
+            "Universitet og høgskole"
+        ],
+        "path": "1.main",
+        "funksjon": "main",
+        "score": 1.0,
+        "sektor_antall_arbeidsledig": null,
+        "sektor_antall_ikkearbeid": null,
+        "sektor_antall_iutdanning": null,
+        "sektor_antall_offentlig": null,
+        "sektor_antall_personer": null,
+        "sektor_antall_privat": null,
+        "sektor_antall_selvstendig": null
+    }
+]
