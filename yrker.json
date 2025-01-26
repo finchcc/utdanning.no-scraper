@@ -1,0 +1,3297 @@
+[
+    {
+        "name": "Byggingeniør",
+        "url": "/yrker/beskrivelse/byggingenior",
+        "education_id": "main_u_ingenior"
+    },
+    {
+        "name": "Ingeniør",
+        "url": "/yrker/beskrivelse/ingenior",
+        "education_id": "main_u_ingenior"
+    },
+    {
+        "name": "Sivilingeniør",
+        "url": "/yrker/beskrivelse/sivilingenior",
+        "education_id": "main_u_ingenior"
+    },
+    {
+        "name": "Pedagog",
+        "url": "/yrker/beskrivelse/pedagog",
+        "education_id": "main_u_larerutdanning"
+    },
+    {
+        "name": "Undervisningsinspektør",
+        "url": "/yrker/beskrivelse/undervisningsinspektor",
+        "education_id": "main_u_larerutdanning"
+    },
+    {
+        "name": "Ingeniør",
+        "url": "/yrker/beskrivelse/ingenior",
+        "education_id": "main_u_sivilingenior"
+    },
+    {
+        "name": "Ingeniør i energi og miljø i bygg",
+        "url": "/yrker/beskrivelse/ingenior_i_energi_og_miljo_i_bygg",
+        "education_id": "main_u_sivilingenior"
+    },
+    {
+        "name": "Meteorolog",
+        "url": "/yrker/beskrivelse/meteorolog",
+        "education_id": "main_u_sivilingenior"
+    },
+    {
+        "name": "Sivilingeniør",
+        "url": "/yrker/beskrivelse/sivilingenior",
+        "education_id": "main_u_sivilingenior"
+    },
+    {
+        "name": "Arealplanlegger",
+        "url": "/yrker/beskrivelse/arealplanlegger",
+        "education_id": "main_u_videreutdanning_planlegging"
+    },
+    {
+        "name": "Samfunnsplanlegger",
+        "url": "/yrker/beskrivelse/samfunnsplanlegger",
+        "education_id": "main_u_videreutdanning_planlegging"
+    },
+    {
+        "name": "Bilmekaniker (lette kjøretøy)",
+        "url": "/yrker/beskrivelse/bilmekaniker_lette_kjoretoy",
+        "education_id": "main_u_bilteknikk"
+    },
+    {
+        "name": "Bilmekaniker (tunge kjøretøy)",
+        "url": "/yrker/beskrivelse/bilmekaniker_tunge_kjoretoy",
+        "education_id": "main_u_bilteknikk"
+    },
+    {
+        "name": "Bilskadereparatør",
+        "url": "/yrker/beskrivelse/bilskadereparator",
+        "education_id": "main_u_bilteknikk"
+    },
+    {
+        "name": "Kulde- og varmepumpetekniker",
+        "url": "/yrker/beskrivelse/kulde-_og_varmepumpetekniker",
+        "education_id": "main_u_kulde_og_varmepumpeteknikk"
+    },
+    {
+        "name": "Lokomotivfører",
+        "url": "/yrker/beskrivelse/lokomotivforer",
+        "education_id": "main_u_lokomotivfoererutdanningen"
+    },
+    {
+        "name": "Brannkonstabel",
+        "url": "/yrker/beskrivelse/brannkonstabel",
+        "education_id": "main_u_brann_og_redning"
+    },
+    {
+        "name": "Landmåler",
+        "url": "/yrker/beskrivelse/landmaler",
+        "education_id": "main_u_kartogoppmaaling"
+    },
+    {
+        "name": "Ambulansearbeider",
+        "url": "/yrker/beskrivelse/ambulansearbeider",
+        "education_id": "main_u_paramedisin"
+    },
+    {
+        "name": "Ortopediingeniør",
+        "url": "/yrker/beskrivelse/ortopediingenior",
+        "education_id": "main_u_ortopediingenioer"
+    },
+    {
+        "name": "Oversetter",
+        "url": "/yrker/beskrivelse/oversetter",
+        "education_id": "main_u_sprak_vesteuropeisk"
+    },
+    {
+        "name": "Oversetter",
+        "url": "/yrker/beskrivelse/oversetter",
+        "education_id": "main_u_osteuropeiske_sprak"
+    },
+    {
+        "name": "Oversetter",
+        "url": "/yrker/beskrivelse/oversetter",
+        "education_id": "main_u_sprak_ikkeeuropeisk"
+    },
+    {
+        "name": "Filolog",
+        "url": "/yrker/beskrivelse/filolog",
+        "education_id": "main_u_sprakvitenskap"
+    },
+    {
+        "name": "Lingvist",
+        "url": "/yrker/beskrivelse/lingvist",
+        "education_id": "main_u_sprakvitenskap"
+    },
+    {
+        "name": "Forlagsmedarbeider",
+        "url": "/yrker/beskrivelse/forlagsmedarbeider",
+        "education_id": "main_u_litteraturvitenskap"
+    },
+    {
+        "name": "Litteraturviter",
+        "url": "/yrker/beskrivelse/litteraturviter",
+        "education_id": "main_u_litteraturvitenskap"
+    },
+    {
+        "name": "Arkivar",
+        "url": "/yrker/beskrivelse/arkivar",
+        "education_id": "main_u_bibliotekarutdanning"
+    },
+    {
+        "name": "Bibliotekar",
+        "url": "/yrker/beskrivelse/bibliotekar",
+        "education_id": "main_u_bibliotekarutdanning"
+    },
+    {
+        "name": "Forfatter",
+        "url": "/yrker/beskrivelse/forfatter",
+        "education_id": "main_u_forfatterutdanning"
+    },
+    {
+        "name": "Tekstforfatter",
+        "url": "/yrker/beskrivelse/tekstforfatter",
+        "education_id": "main_u_forfatterutdanning"
+    },
+    {
+        "name": "Arkivar",
+        "url": "/yrker/beskrivelse/arkivar",
+        "education_id": "main_u_historie"
+    },
+    {
+        "name": "Historiker",
+        "url": "/yrker/beskrivelse/historiker",
+        "education_id": "main_u_historie"
+    },
+    {
+        "name": "Kulturhistoriker / kulturviter",
+        "url": "/yrker/beskrivelse/kulturhistoriker_kulturviter",
+        "education_id": "main_u_historie"
+    },
+    {
+        "name": "Antikvar",
+        "url": "/yrker/beskrivelse/antikvar",
+        "education_id": "main_u_kunsthistorie"
+    },
+    {
+        "name": "Kunst- og kulturformidler",
+        "url": "/yrker/beskrivelse/kunst-_og_kulturformidler",
+        "education_id": "main_u_kunsthistorie"
+    },
+    {
+        "name": "Kunsthistoriker",
+        "url": "/yrker/beskrivelse/kunsthistoriker",
+        "education_id": "main_u_kunsthistorie"
+    },
+    {
+        "name": "Kunstner",
+        "url": "/yrker/beskrivelse/kunstner",
+        "education_id": "main_u_kunsthistorie"
+    },
+    {
+        "name": "Antikvar",
+        "url": "/yrker/beskrivelse/antikvar",
+        "education_id": "main_u_arkeologi"
+    },
+    {
+        "name": "Arkeolog",
+        "url": "/yrker/beskrivelse/arkeolog",
+        "education_id": "main_u_arkeologi"
+    },
+    {
+        "name": "Antikvar",
+        "url": "/yrker/beskrivelse/antikvar",
+        "education_id": "main_u_kulturutdanning"
+    },
+    {
+        "name": "Kulturhistoriker / kulturviter",
+        "url": "/yrker/beskrivelse/kulturhistoriker_kulturviter",
+        "education_id": "main_u_kulturutdanning"
+    },
+    {
+        "name": "Kunst- og kulturformidler",
+        "url": "/yrker/beskrivelse/kunst-_og_kulturformidler",
+        "education_id": "main_u_kulturutdanning"
+    },
+    {
+        "name": "Filosof",
+        "url": "/yrker/beskrivelse/filosof",
+        "education_id": "main_u_filosofi_etikk"
+    },
+    {
+        "name": "Diakon",
+        "url": "/yrker/beskrivelse/diakon",
+        "education_id": "main_u_kristen"
+    },
+    {
+        "name": "Diakonimedarbeider",
+        "url": "/yrker/beskrivelse/diakonimedarbeider",
+        "education_id": "main_u_kristen"
+    },
+    {
+        "name": "Misjonær",
+        "url": "/yrker/beskrivelse/misjonaer",
+        "education_id": "main_u_kristen"
+    },
+    {
+        "name": "Diakon",
+        "url": "/yrker/beskrivelse/diakon",
+        "education_id": "main_u_kristendom_religion"
+    },
+    {
+        "name": "Kateket",
+        "url": "/yrker/beskrivelse/kateket",
+        "education_id": "main_u_kristendom_religion"
+    },
+    {
+        "name": "Misjonær",
+        "url": "/yrker/beskrivelse/misjonaer",
+        "education_id": "main_u_kristendom_religion"
+    },
+    {
+        "name": "Dirigent",
+        "url": "/yrker/beskrivelse/dirigent",
+        "education_id": "main_u_sang_musikkutdanning"
+    },
+    {
+        "name": "Instrumentalpedagog",
+        "url": "/yrker/beskrivelse/instrumentalpedagog",
+        "education_id": "main_u_sang_musikkutdanning"
+    },
+    {
+        "name": "Musiker",
+        "url": "/yrker/beskrivelse/musiker",
+        "education_id": "main_u_sang_musikkutdanning"
+    },
+    {
+        "name": "Musikkpedagog",
+        "url": "/yrker/beskrivelse/musikkpedagog",
+        "education_id": "main_u_sang_musikkutdanning"
+    },
+    {
+        "name": "Musikkprodusent",
+        "url": "/yrker/beskrivelse/musikkprodusent",
+        "education_id": "main_u_sang_musikkutdanning"
+    },
+    {
+        "name": "Sanger",
+        "url": "/yrker/beskrivelse/sanger",
+        "education_id": "main_u_sang_musikkutdanning"
+    },
+    {
+        "name": "Sangpedagog",
+        "url": "/yrker/beskrivelse/sangpedagog",
+        "education_id": "main_u_sang_musikkutdanning"
+    },
+    {
+        "name": "Dramaturg",
+        "url": "/yrker/beskrivelse/dramaturg",
+        "education_id": "main_u_teater_drama"
+    },
+    {
+        "name": "Inspisient",
+        "url": "/yrker/beskrivelse/inspisient",
+        "education_id": "main_u_teater_drama"
+    },
+    {
+        "name": "Rekvisitør",
+        "url": "/yrker/beskrivelse/rekvisitor",
+        "education_id": "main_u_teater_drama"
+    },
+    {
+        "name": "Scenograf",
+        "url": "/yrker/beskrivelse/scenograf",
+        "education_id": "main_u_teater_drama"
+    },
+    {
+        "name": "Skuespiller",
+        "url": "/yrker/beskrivelse/skuespiller",
+        "education_id": "main_u_teater_drama"
+    },
+    {
+        "name": "Dansepedagog",
+        "url": "/yrker/beskrivelse/dansepedagog",
+        "education_id": "main_u_dans"
+    },
+    {
+        "name": "Danser",
+        "url": "/yrker/beskrivelse/danser",
+        "education_id": "main_u_dans"
+    },
+    {
+        "name": "Koreograf",
+        "url": "/yrker/beskrivelse/koreograf",
+        "education_id": "main_u_dans"
+    },
+    {
+        "name": "Fotograf",
+        "url": "/yrker/beskrivelse/fotograf",
+        "education_id": "main_u_fotofag"
+    },
+    {
+        "name": "Fotojournalist",
+        "url": "/yrker/beskrivelse/fotojournalist",
+        "education_id": "main_u_fotofag"
+    },
+    {
+        "name": "Medietekniker",
+        "url": "/yrker/beskrivelse/medietekniker",
+        "education_id": "main_u_fotofag"
+    },
+    {
+        "name": "TV-fotograf",
+        "url": "/yrker/beskrivelse/tv-fotograf",
+        "education_id": "main_u_fotofag"
+    },
+    {
+        "name": "Billedkunstner",
+        "url": "/yrker/beskrivelse/billedkunstner",
+        "education_id": "main_u_kunst_kunsthandverk"
+    },
+    {
+        "name": "Illustratør",
+        "url": "/yrker/beskrivelse/illustrator",
+        "education_id": "main_u_kunst_kunsthandverk"
+    },
+    {
+        "name": "Keramiker",
+        "url": "/yrker/beskrivelse/keramiker",
+        "education_id": "main_u_kunst_kunsthandverk"
+    },
+    {
+        "name": "Kunsthåndverker",
+        "url": "/yrker/beskrivelse/kunsthandverker",
+        "education_id": "main_u_kunst_kunsthandverk"
+    },
+    {
+        "name": "Kunstner",
+        "url": "/yrker/beskrivelse/kunstner",
+        "education_id": "main_u_kunst_kunsthandverk"
+    },
+    {
+        "name": "Kurator",
+        "url": "/yrker/beskrivelse/kurator",
+        "education_id": "main_u_kunst_kunsthandverk"
+    },
+    {
+        "name": "Rekvisitør",
+        "url": "/yrker/beskrivelse/rekvisitor",
+        "education_id": "main_u_kunst_kunsthandverk"
+    },
+    {
+        "name": "Videokunstner",
+        "url": "/yrker/beskrivelse/videokunstner",
+        "education_id": "main_u_kunst_kunsthandverk"
+    },
+    {
+        "name": "Eksponeringsdesigner",
+        "url": "/yrker/beskrivelse/eksponeringsdesigner",
+        "education_id": "main_u_interior_dekorator"
+    },
+    {
+        "name": "Interiørarkitekt",
+        "url": "/yrker/beskrivelse/interiorarkitekt",
+        "education_id": "main_u_interior_dekorator"
+    },
+    {
+        "name": "Klesdesigner",
+        "url": "/yrker/beskrivelse/klesdesigner",
+        "education_id": "main_u_tekstildesign"
+    },
+    {
+        "name": "Barnehagelærer",
+        "url": "/yrker/beskrivelse/barnehagelaerer",
+        "education_id": "main_u_barnehagelarer"
+    },
+    {
+        "name": "Barnehagestyrer",
+        "url": "/yrker/beskrivelse/barnehagestyrer",
+        "education_id": "main_u_barnehagelarer"
+    },
+    {
+        "name": "Lærer",
+        "url": "/yrker/beskrivelse/laerer",
+        "education_id": "main_u_barnehagelarer"
+    },
+    {
+        "name": "Miljøterapeut",
+        "url": "/yrker/beskrivelse/miljoterapeut",
+        "education_id": "main_u_barnehagelarer"
+    },
+    {
+        "name": "Skolefritidsleder (SFO)",
+        "url": "/yrker/beskrivelse/skolefritidsleder_sfo",
+        "education_id": "main_u_barnehagelarer"
+    },
+    {
+        "name": "Adjunkt",
+        "url": "/yrker/beskrivelse/adjunkt",
+        "education_id": "main_u_grunnskolelarer_1_7"
+    },
+    {
+        "name": "Grunnskolelærer",
+        "url": "/yrker/beskrivelse/grunnskolelaerer",
+        "education_id": "main_u_grunnskolelarer_1_7"
+    },
+    {
+        "name": "Lærer",
+        "url": "/yrker/beskrivelse/laerer",
+        "education_id": "main_u_grunnskolelarer_1_7"
+    },
+    {
+        "name": "Adjunkt",
+        "url": "/yrker/beskrivelse/adjunkt",
+        "education_id": "main_u_grunnskolelarer_5_10"
+    },
+    {
+        "name": "Grunnskolelærer",
+        "url": "/yrker/beskrivelse/grunnskolelaerer",
+        "education_id": "main_u_grunnskolelarer_5_10"
+    },
+    {
+        "name": "Lærer",
+        "url": "/yrker/beskrivelse/laerer",
+        "education_id": "main_u_grunnskolelarer_5_10"
+    },
+    {
+        "name": "Undervisningsinspektør",
+        "url": "/yrker/beskrivelse/undervisningsinspektor",
+        "education_id": "main_u_grunnskolelarer_5_10"
+    },
+    {
+        "name": "Adjunkt",
+        "url": "/yrker/beskrivelse/adjunkt",
+        "education_id": "main_u_ppu"
+    },
+    {
+        "name": "Dansepedagog",
+        "url": "/yrker/beskrivelse/dansepedagog",
+        "education_id": "main_u_ppu"
+    },
+    {
+        "name": "Kulturskolelærer",
+        "url": "/yrker/beskrivelse/kulturskolelaerer",
+        "education_id": "main_u_ppu"
+    },
+    {
+        "name": "Lektor",
+        "url": "/yrker/beskrivelse/lektor",
+        "education_id": "main_u_ppu"
+    },
+    {
+        "name": "Lærer",
+        "url": "/yrker/beskrivelse/laerer",
+        "education_id": "main_u_ppu"
+    },
+    {
+        "name": "Pedagog",
+        "url": "/yrker/beskrivelse/pedagog",
+        "education_id": "main_u_ppu"
+    },
+    {
+        "name": "Sangpedagog",
+        "url": "/yrker/beskrivelse/sangpedagog",
+        "education_id": "main_u_ppu"
+    },
+    {
+        "name": "Undervisningsinspektør",
+        "url": "/yrker/beskrivelse/undervisningsinspektor",
+        "education_id": "main_u_ppu"
+    },
+    {
+        "name": "Kulturskolelærer",
+        "url": "/yrker/beskrivelse/kulturskolelaerer",
+        "education_id": "main_u_yrkesfaglarer"
+    },
+    {
+        "name": "Lærer",
+        "url": "/yrker/beskrivelse/laerer",
+        "education_id": "main_u_yrkesfaglarer"
+    },
+    {
+        "name": "Undervisningsinspektør",
+        "url": "/yrker/beskrivelse/undervisningsinspektor",
+        "education_id": "main_u_yrkesfaglarer"
+    },
+    {
+        "name": "Yrkesfaglærer",
+        "url": "/yrker/beskrivelse/yrkesfaglaerer",
+        "education_id": "main_u_yrkesfaglarer"
+    },
+    {
+        "name": "Jobbveileder",
+        "url": "/yrker/beskrivelse/jobbveileder",
+        "education_id": "main_u_pedagogikk"
+    },
+    {
+        "name": "Kateket",
+        "url": "/yrker/beskrivelse/kateket",
+        "education_id": "main_u_pedagogikk"
+    },
+    {
+        "name": "Musikkpedagog",
+        "url": "/yrker/beskrivelse/musikkpedagog",
+        "education_id": "main_u_pedagogikk"
+    },
+    {
+        "name": "Pedagog",
+        "url": "/yrker/beskrivelse/pedagog",
+        "education_id": "main_u_pedagogikk"
+    },
+    {
+        "name": "Pedagogisk-psykologisk rådgiver (PP-rådgiver)",
+        "url": "/yrker/beskrivelse/pedagogisk-psykologisk_radgiver_pp-radgiver",
+        "education_id": "main_u_pedagogikk"
+    },
+    {
+        "name": "Personalrådgiver",
+        "url": "/yrker/beskrivelse/personalradgiver",
+        "education_id": "main_u_pedagogikk"
+    },
+    {
+        "name": "Skolefritidsleder (SFO)",
+        "url": "/yrker/beskrivelse/skolefritidsleder_sfo",
+        "education_id": "main_u_pedagogikk"
+    },
+    {
+        "name": "Undervisningsinspektør",
+        "url": "/yrker/beskrivelse/undervisningsinspektor",
+        "education_id": "main_u_pedagogikk"
+    },
+    {
+        "name": "Miljøterapeut",
+        "url": "/yrker/beskrivelse/miljoterapeut",
+        "education_id": "main_u_spesped"
+    },
+    {
+        "name": "Musikkpedagog",
+        "url": "/yrker/beskrivelse/musikkpedagog",
+        "education_id": "main_u_spesped"
+    },
+    {
+        "name": "Pedagog",
+        "url": "/yrker/beskrivelse/pedagog",
+        "education_id": "main_u_spesped"
+    },
+    {
+        "name": "Pedagogisk-psykologisk rådgiver (PP-rådgiver)",
+        "url": "/yrker/beskrivelse/pedagogisk-psykologisk_radgiver_pp-radgiver",
+        "education_id": "main_u_spesped"
+    },
+    {
+        "name": "Spesialpedagog",
+        "url": "/yrker/beskrivelse/spesialpedagog",
+        "education_id": "main_u_spesped"
+    },
+    {
+        "name": "Grunnskolelærer",
+        "url": "/yrker/beskrivelse/grunnskolelaerer",
+        "education_id": "main_u_larer_evu"
+    },
+    {
+        "name": "Lærer",
+        "url": "/yrker/beskrivelse/laerer",
+        "education_id": "main_u_larer_evu"
+    },
+    {
+        "name": "Statsviter",
+        "url": "/yrker/beskrivelse/statsviter",
+        "education_id": "main_u_statsvitenskap"
+    },
+    {
+        "name": "Sosiolog",
+        "url": "/yrker/beskrivelse/sosiolog",
+        "education_id": "main_u_sosiologi"
+    },
+    {
+        "name": "Arealplanlegger",
+        "url": "/yrker/beskrivelse/arealplanlegger",
+        "education_id": "main_u_samfunnsgeografi"
+    },
+    {
+        "name": "Samfunnsgeograf",
+        "url": "/yrker/beskrivelse/samfunnsgeograf",
+        "education_id": "main_u_samfunnsgeografi"
+    },
+    {
+        "name": "Samfunnsplanlegger",
+        "url": "/yrker/beskrivelse/samfunnsplanlegger",
+        "education_id": "main_u_samfunnsgeografi"
+    },
+    {
+        "name": "Samfunnsøkonom",
+        "url": "/yrker/beskrivelse/samfunnsokonom",
+        "education_id": "main_u_samfunnsokonomi"
+    },
+    {
+        "name": "Arrangementsplanlegger",
+        "url": "/yrker/beskrivelse/arrangementsplanlegger",
+        "education_id": "main_u_komm_medievit"
+    },
+    {
+        "name": "Art director",
+        "url": "/yrker/beskrivelse/art_director",
+        "education_id": "main_u_komm_medievit"
+    },
+    {
+        "name": "Influenser",
+        "url": "/yrker/beskrivelse/influenser",
+        "education_id": "main_u_komm_medievit"
+    },
+    {
+        "name": "Kommunikasjonsrådgiver",
+        "url": "/yrker/beskrivelse/kommunikasjonsradgiver",
+        "education_id": "main_u_komm_medievit"
+    },
+    {
+        "name": "Markedsfører",
+        "url": "/yrker/beskrivelse/markedsforer",
+        "education_id": "main_u_komm_medievit"
+    },
+    {
+        "name": "TV-fotograf",
+        "url": "/yrker/beskrivelse/tv-fotograf",
+        "education_id": "main_u_komm_medievit"
+    },
+    {
+        "name": "Journalist",
+        "url": "/yrker/beskrivelse/journalist",
+        "education_id": "main_u_journalistikk"
+    },
+    {
+        "name": "Kommunikasjonsrådgiver",
+        "url": "/yrker/beskrivelse/kommunikasjonsradgiver",
+        "education_id": "main_u_journalistikk"
+    },
+    {
+        "name": "Redaktør",
+        "url": "/yrker/beskrivelse/redaktor",
+        "education_id": "main_u_journalistikk"
+    },
+    {
+        "name": "Tekstforfatter",
+        "url": "/yrker/beskrivelse/tekstforfatter",
+        "education_id": "main_u_journalistikk"
+    },
+    {
+        "name": "Animatør",
+        "url": "/yrker/beskrivelse/animator",
+        "education_id": "main_u_medieproduksjon"
+    },
+    {
+        "name": "Journalist",
+        "url": "/yrker/beskrivelse/journalist",
+        "education_id": "main_u_medieproduksjon"
+    },
+    {
+        "name": "TV-fotograf",
+        "url": "/yrker/beskrivelse/tv-fotograf",
+        "education_id": "main_u_medieproduksjon"
+    },
+    {
+        "name": "Pedagogisk-psykologisk rådgiver (PP-rådgiver)",
+        "url": "/yrker/beskrivelse/pedagogisk-psykologisk_radgiver_pp-radgiver",
+        "education_id": "main_u_psykologi"
+    },
+    {
+        "name": "Psykolog",
+        "url": "/yrker/beskrivelse/psykolog",
+        "education_id": "main_u_psykologi"
+    },
+    {
+        "name": "Advokat",
+        "url": "/yrker/beskrivelse/advokat",
+        "education_id": "main_u_juss"
+    },
+    {
+        "name": "Arkivar",
+        "url": "/yrker/beskrivelse/arkivar",
+        "education_id": "main_u_juss"
+    },
+    {
+        "name": "Dommer",
+        "url": "/yrker/beskrivelse/dommer",
+        "education_id": "main_u_juss"
+    },
+    {
+        "name": "Innkjøper",
+        "url": "/yrker/beskrivelse/innkjoper",
+        "education_id": "main_u_juss"
+    },
+    {
+        "name": "Jurist",
+        "url": "/yrker/beskrivelse/jurist",
+        "education_id": "main_u_juss"
+    },
+    {
+        "name": "Politijurist",
+        "url": "/yrker/beskrivelse/politijurist",
+        "education_id": "main_u_juss"
+    },
+    {
+        "name": "Saksbehandler",
+        "url": "/yrker/beskrivelse/saksbehandler",
+        "education_id": "main_u_juss"
+    },
+    {
+        "name": "Kriminolog",
+        "url": "/yrker/beskrivelse/kriminolog",
+        "education_id": "main_u_kriminologi"
+    },
+    {
+        "name": "Sosialantropolog",
+        "url": "/yrker/beskrivelse/sosialantropolog",
+        "education_id": "main_u_sosialantropologi"
+    },
+    {
+        "name": "Aksjemegler",
+        "url": "/yrker/beskrivelse/aksjemegler",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Arkivar",
+        "url": "/yrker/beskrivelse/arkivar",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Butikksjef",
+        "url": "/yrker/beskrivelse/butikksjef",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Fabrikksjef, fiske",
+        "url": "/yrker/beskrivelse/fabrikksjef_fiske",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Finansanalytiker",
+        "url": "/yrker/beskrivelse/finansanalytiker",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Forretningsutvikler",
+        "url": "/yrker/beskrivelse/forretningsutvikler",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Forsikringsrådgiver",
+        "url": "/yrker/beskrivelse/forsikringsradgiver",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Hotelldirektør",
+        "url": "/yrker/beskrivelse/hotelldirektor",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Innkjøper",
+        "url": "/yrker/beskrivelse/innkjoper",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Kirkeverge",
+        "url": "/yrker/beskrivelse/kirkeverge",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Kundeansvarlig (salg)",
+        "url": "/yrker/beskrivelse/kundeansvarlig_salg",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Kunderådgiver i bank",
+        "url": "/yrker/beskrivelse/kunderadgiver_i_bank",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Leder",
+        "url": "/yrker/beskrivelse/leder",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Markedssjef",
+        "url": "/yrker/beskrivelse/markedssjef",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Megler",
+        "url": "/yrker/beskrivelse/megler",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Personalrådgiver",
+        "url": "/yrker/beskrivelse/personalradgiver",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Personalsjef",
+        "url": "/yrker/beskrivelse/personalsjef",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Regnskapsfører",
+        "url": "/yrker/beskrivelse/regnskapsforer",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Salgssjef",
+        "url": "/yrker/beskrivelse/salgssjef",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Sekretær",
+        "url": "/yrker/beskrivelse/sekretaer",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Service- og administrasjonsmedarbeider",
+        "url": "/yrker/beskrivelse/service-_og_administrasjonsmedarbeider",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Siviløkonom",
+        "url": "/yrker/beskrivelse/sivilokonom",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Skipsmegler",
+        "url": "/yrker/beskrivelse/skipsmegler",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Undervisningsinspektør",
+        "url": "/yrker/beskrivelse/undervisningsinspektor",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Økonom",
+        "url": "/yrker/beskrivelse/okonom",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Økonomikonsulent",
+        "url": "/yrker/beskrivelse/okonomikonsulent",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Økonomisjef",
+        "url": "/yrker/beskrivelse/okonomisjef",
+        "education_id": "main_u_ok_adm"
+    },
+    {
+        "name": "Eiendomsmegler",
+        "url": "/yrker/beskrivelse/eiendomsmegler",
+        "education_id": "main_u_eiendomsmegling"
+    },
+    {
+        "name": "Megler",
+        "url": "/yrker/beskrivelse/megler",
+        "education_id": "main_u_eiendomsmegling"
+    },
+    {
+        "name": "Arrangementsplanlegger",
+        "url": "/yrker/beskrivelse/arrangementsplanlegger",
+        "education_id": "main_u_handelmarkedsf_uh"
+    },
+    {
+        "name": "Bilselger",
+        "url": "/yrker/beskrivelse/bilselger",
+        "education_id": "main_u_handelmarkedsf_uh"
+    },
+    {
+        "name": "Arrangementsplanlegger",
+        "url": "/yrker/beskrivelse/arrangementsplanlegger",
+        "education_id": "main_u_markedsforinguh"
+    },
+    {
+        "name": "Influenser",
+        "url": "/yrker/beskrivelse/influenser",
+        "education_id": "main_u_markedsforinguh"
+    },
+    {
+        "name": "Kommunikasjonsrådgiver",
+        "url": "/yrker/beskrivelse/kommunikasjonsradgiver",
+        "education_id": "main_u_markedsforinguh"
+    },
+    {
+        "name": "Markedsfører",
+        "url": "/yrker/beskrivelse/markedsforer",
+        "education_id": "main_u_markedsforinguh"
+    },
+    {
+        "name": "Markedssjef",
+        "url": "/yrker/beskrivelse/markedssjef",
+        "education_id": "main_u_markedsforinguh"
+    },
+    {
+        "name": "Guide",
+        "url": "/yrker/beskrivelse/guide",
+        "education_id": "main_u_reiselivuh"
+    },
+    {
+        "name": "Hotelldirektør",
+        "url": "/yrker/beskrivelse/hotelldirektor",
+        "education_id": "main_u_reiselivuh"
+    },
+    {
+        "name": "Reiseleder",
+        "url": "/yrker/beskrivelse/reiseleder",
+        "education_id": "main_u_reiselivuh"
+    },
+    {
+        "name": "Reiselivsmedarbeider",
+        "url": "/yrker/beskrivelse/reiselivsmedarbeider",
+        "education_id": "main_u_reiselivuh"
+    },
+    {
+        "name": "Hotelldirektør",
+        "url": "/yrker/beskrivelse/hotelldirektor",
+        "education_id": "main_u_hotelledelse"
+    },
+    {
+        "name": "Miljørådgiver",
+        "url": "/yrker/beskrivelse/miljoradgiver",
+        "education_id": "main_u_miljo_studier"
+    },
+    {
+        "name": "Naturforvalter",
+        "url": "/yrker/beskrivelse/naturforvalter",
+        "education_id": "main_u_miljo_studier"
+    },
+    {
+        "name": "Biolog",
+        "url": "/yrker/beskrivelse/biolog",
+        "education_id": "main_u_ferskvannsbiologi"
+    },
+    {
+        "name": "Havforsker",
+        "url": "/yrker/beskrivelse/havforsker",
+        "education_id": "main_u_ferskvannsbiologi"
+    },
+    {
+        "name": "Marinbiolog",
+        "url": "/yrker/beskrivelse/marinbiolog",
+        "education_id": "main_u_ferskvannsbiologi"
+    },
+    {
+        "name": "Mikrobiolog",
+        "url": "/yrker/beskrivelse/mikrobiolog",
+        "education_id": "main_u_ferskvannsbiologi"
+    },
+    {
+        "name": "Biolog",
+        "url": "/yrker/beskrivelse/biolog",
+        "education_id": "main_u_biologi"
+    },
+    {
+        "name": "Mikrobiolog",
+        "url": "/yrker/beskrivelse/mikrobiolog",
+        "education_id": "main_u_biologi"
+    },
+    {
+        "name": "Ornitolog",
+        "url": "/yrker/beskrivelse/ornitolog",
+        "education_id": "main_u_biologi"
+    },
+    {
+        "name": "Paleontolog",
+        "url": "/yrker/beskrivelse/paleontolog",
+        "education_id": "main_u_biologi"
+    },
+    {
+        "name": "Planteinspektør",
+        "url": "/yrker/beskrivelse/planteinspektor",
+        "education_id": "main_u_biologi"
+    },
+    {
+        "name": "Produktutvikler fiskefôr",
+        "url": "/yrker/beskrivelse/produktutvikler_fiskefor",
+        "education_id": "main_u_biologi"
+    },
+    {
+        "name": "Astronom",
+        "url": "/yrker/beskrivelse/astronom",
+        "education_id": "main_u_fysikk"
+    },
+    {
+        "name": "Fysiker",
+        "url": "/yrker/beskrivelse/fysiker",
+        "education_id": "main_u_fysikk"
+    },
+    {
+        "name": "Biokjemiker",
+        "url": "/yrker/beskrivelse/biokjemiker",
+        "education_id": "main_u_kjemi_bioteknologi"
+    },
+    {
+        "name": "Bioteknolog",
+        "url": "/yrker/beskrivelse/bioteknolog",
+        "education_id": "main_u_kjemi_bioteknologi"
+    },
+    {
+        "name": "Geokjemiker",
+        "url": "/yrker/beskrivelse/geokjemiker",
+        "education_id": "main_u_kjemi_bioteknologi"
+    },
+    {
+        "name": "Kjemiingeniør",
+        "url": "/yrker/beskrivelse/kjemiingenior",
+        "education_id": "main_u_kjemi_bioteknologi"
+    },
+    {
+        "name": "Kjemiker",
+        "url": "/yrker/beskrivelse/kjemiker",
+        "education_id": "main_u_kjemi_bioteknologi"
+    },
+    {
+        "name": "Marin bioteknolog",
+        "url": "/yrker/beskrivelse/marin_bioteknolog",
+        "education_id": "main_u_kjemi_bioteknologi"
+    },
+    {
+        "name": "Petroleumsingeniør",
+        "url": "/yrker/beskrivelse/petroleumsingenior",
+        "education_id": "main_u_kjemi_bioteknologi"
+    },
+    {
+        "name": "Prosessingeniør",
+        "url": "/yrker/beskrivelse/prosessingenior",
+        "education_id": "main_u_kjemi_bioteknologi"
+    },
+    {
+        "name": "Aktuar",
+        "url": "/yrker/beskrivelse/aktuar",
+        "education_id": "main_u_matematikk"
+    },
+    {
+        "name": "Astronom",
+        "url": "/yrker/beskrivelse/astronom",
+        "education_id": "main_u_matematikk"
+    },
+    {
+        "name": "Matematiker",
+        "url": "/yrker/beskrivelse/matematiker",
+        "education_id": "main_u_matematikk"
+    },
+    {
+        "name": "Aktuar",
+        "url": "/yrker/beskrivelse/aktuar",
+        "education_id": "main_u_statistikk"
+    },
+    {
+        "name": "Statistiker",
+        "url": "/yrker/beskrivelse/statistiker",
+        "education_id": "main_u_statistikk"
+    },
+    {
+        "name": "IT-administrator",
+        "url": "/yrker/beskrivelse/it-administrator",
+        "education_id": "main_u_ikt"
+    },
+    {
+        "name": "IT-arkitekt",
+        "url": "/yrker/beskrivelse/it-arkitekt",
+        "education_id": "main_u_ikt"
+    },
+    {
+        "name": "IT-konsulent",
+        "url": "/yrker/beskrivelse/it-konsulent",
+        "education_id": "main_u_ikt"
+    },
+    {
+        "name": "IT-leder",
+        "url": "/yrker/beskrivelse/it-leder",
+        "education_id": "main_u_ikt"
+    },
+    {
+        "name": "Nettverkstekniker",
+        "url": "/yrker/beskrivelse/nettverkstekniker",
+        "education_id": "main_u_ikt"
+    },
+    {
+        "name": "Spilldesigner",
+        "url": "/yrker/beskrivelse/spilldesigner",
+        "education_id": "main_u_ikt"
+    },
+    {
+        "name": "Spillprogrammerer",
+        "url": "/yrker/beskrivelse/spillprogrammerer",
+        "education_id": "main_u_ikt"
+    },
+    {
+        "name": "Supportkonsulent",
+        "url": "/yrker/beskrivelse/supportkonsulent",
+        "education_id": "main_u_ikt"
+    },
+    {
+        "name": "Systemutvikler",
+        "url": "/yrker/beskrivelse/systemutvikler",
+        "education_id": "main_u_ikt"
+    },
+    {
+        "name": "Elektroingeniør",
+        "url": "/yrker/beskrivelse/elektroingenior",
+        "education_id": "main_u_elektrofag"
+    },
+    {
+        "name": "Maskiningeniør",
+        "url": "/yrker/beskrivelse/maskiningenior",
+        "education_id": "main_u_mekaniske_fag"
+    },
+    {
+        "name": "Maskinist",
+        "url": "/yrker/beskrivelse/maskinist",
+        "education_id": "main_u_mekaniske_fag"
+    },
+    {
+        "name": "Optiker",
+        "url": "/yrker/beskrivelse/optiker",
+        "education_id": "main_u_optikk"
+    },
+    {
+        "name": "Geofysiker",
+        "url": "/yrker/beskrivelse/geofysiker",
+        "education_id": "main_u_geofag"
+    },
+    {
+        "name": "Geograf",
+        "url": "/yrker/beskrivelse/geograf",
+        "education_id": "main_u_geofag"
+    },
+    {
+        "name": "Geokjemiker",
+        "url": "/yrker/beskrivelse/geokjemiker",
+        "education_id": "main_u_geofag"
+    },
+    {
+        "name": "Geolog",
+        "url": "/yrker/beskrivelse/geolog",
+        "education_id": "main_u_geofag"
+    },
+    {
+        "name": "Hydrolog",
+        "url": "/yrker/beskrivelse/hydrolog",
+        "education_id": "main_u_geofag"
+    },
+    {
+        "name": "Meteorolog",
+        "url": "/yrker/beskrivelse/meteorolog",
+        "education_id": "main_u_geofag"
+    },
+    {
+        "name": "Paleontolog",
+        "url": "/yrker/beskrivelse/paleontolog",
+        "education_id": "main_u_geofag"
+    },
+    {
+        "name": "Petroleumsingeniør",
+        "url": "/yrker/beskrivelse/petroleumsingenior",
+        "education_id": "main_u_geofag"
+    },
+    {
+        "name": "Byggingeniør",
+        "url": "/yrker/beskrivelse/byggingenior",
+        "education_id": "main_u_bygg_anlegg"
+    },
+    {
+        "name": "Ingeniør i energi og miljø i bygg",
+        "url": "/yrker/beskrivelse/ingenior_i_energi_og_miljo_i_bygg",
+        "education_id": "main_u_bygg_anlegg"
+    },
+    {
+        "name": "Antikvar",
+        "url": "/yrker/beskrivelse/antikvar",
+        "education_id": "main_u_arkitektur"
+    },
+    {
+        "name": "Arealplanlegger",
+        "url": "/yrker/beskrivelse/arealplanlegger",
+        "education_id": "main_u_arkitektur"
+    },
+    {
+        "name": "Arkitekt",
+        "url": "/yrker/beskrivelse/arkitekt",
+        "education_id": "main_u_arkitektur"
+    },
+    {
+        "name": "Interiørarkitekt",
+        "url": "/yrker/beskrivelse/interiorarkitekt",
+        "education_id": "main_u_arkitektur"
+    },
+    {
+        "name": "Landskapsarkitekt",
+        "url": "/yrker/beskrivelse/landskapsarkitekt",
+        "education_id": "main_u_arkitektur"
+    },
+    {
+        "name": "Helsesykepleier",
+        "url": "/yrker/beskrivelse/helsesykepleier",
+        "education_id": "main_u_helsesosterutdanning"
+    },
+    {
+        "name": "Jordmor",
+        "url": "/yrker/beskrivelse/jordmor",
+        "education_id": "main_u_jordmorutdanning"
+    },
+    {
+        "name": "Barnesykepleier",
+        "url": "/yrker/beskrivelse/barnesykepleier",
+        "education_id": "main_u_sykepleie"
+    },
+    {
+        "name": "Intensivsykepleier",
+        "url": "/yrker/beskrivelse/intensivsykepleier",
+        "education_id": "main_u_sykepleie"
+    },
+    {
+        "name": "Jordmor",
+        "url": "/yrker/beskrivelse/jordmor",
+        "education_id": "main_u_sykepleie"
+    },
+    {
+        "name": "Kreftsykepleier",
+        "url": "/yrker/beskrivelse/kreftsykepleier",
+        "education_id": "main_u_sykepleie"
+    },
+    {
+        "name": "Miljøterapeut",
+        "url": "/yrker/beskrivelse/miljoterapeut",
+        "education_id": "main_u_sykepleie"
+    },
+    {
+        "name": "Nevrosykepleier",
+        "url": "/yrker/beskrivelse/nevrosykepleier",
+        "education_id": "main_u_sykepleie"
+    },
+    {
+        "name": "Obduksjonstekniker",
+        "url": "/yrker/beskrivelse/obduksjonstekniker",
+        "education_id": "main_u_sykepleie"
+    },
+    {
+        "name": "Operasjonssykepleier",
+        "url": "/yrker/beskrivelse/operasjonssykepleier",
+        "education_id": "main_u_sykepleie"
+    },
+    {
+        "name": "Spesialsykepleier innen psykisk helse og rus",
+        "url": "/yrker/beskrivelse/spesialsykepleier_innen_psykisk_helse_og_rus",
+        "education_id": "main_u_sykepleie"
+    },
+    {
+        "name": "Sykepleier",
+        "url": "/yrker/beskrivelse/sykepleier",
+        "education_id": "main_u_sykepleie"
+    },
+    {
+        "name": "Miljøterapeut",
+        "url": "/yrker/beskrivelse/miljoterapeut",
+        "education_id": "main_u_vernepleie"
+    },
+    {
+        "name": "Vernepleier",
+        "url": "/yrker/beskrivelse/vernepleier",
+        "education_id": "main_u_vernepleie"
+    },
+    {
+        "name": "Diakonimedarbeider",
+        "url": "/yrker/beskrivelse/diakonimedarbeider",
+        "education_id": "main_u_sosionom"
+    },
+    {
+        "name": "Familierådgiver",
+        "url": "/yrker/beskrivelse/familieradgiver",
+        "education_id": "main_u_sosionom"
+    },
+    {
+        "name": "Flyktningkonsulent",
+        "url": "/yrker/beskrivelse/flyktningkonsulent",
+        "education_id": "main_u_sosionom"
+    },
+    {
+        "name": "Jobbveileder",
+        "url": "/yrker/beskrivelse/jobbveileder",
+        "education_id": "main_u_sosionom"
+    },
+    {
+        "name": "Klinisk sosionom",
+        "url": "/yrker/beskrivelse/klinisk_sosionom",
+        "education_id": "main_u_sosionom"
+    },
+    {
+        "name": "Miljøterapeut",
+        "url": "/yrker/beskrivelse/miljoterapeut",
+        "education_id": "main_u_sosionom"
+    },
+    {
+        "name": "Pedagogisk-psykologisk rådgiver (PP-rådgiver)",
+        "url": "/yrker/beskrivelse/pedagogisk-psykologisk_radgiver_pp-radgiver",
+        "education_id": "main_u_sosionom"
+    },
+    {
+        "name": "Sosionom",
+        "url": "/yrker/beskrivelse/sosionom",
+        "education_id": "main_u_sosionom"
+    },
+    {
+        "name": "Barnevernspedagog",
+        "url": "/yrker/beskrivelse/barnevernspedagog",
+        "education_id": "main_u_barnevern"
+    },
+    {
+        "name": "Flyktningkonsulent",
+        "url": "/yrker/beskrivelse/flyktningkonsulent",
+        "education_id": "main_u_barnevern"
+    },
+    {
+        "name": "Miljøterapeut",
+        "url": "/yrker/beskrivelse/miljoterapeut",
+        "education_id": "main_u_barnevern"
+    },
+    {
+        "name": "Allmennlege",
+        "url": "/yrker/beskrivelse/allmennlege",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Anestesilege",
+        "url": "/yrker/beskrivelse/anestesilege",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Arbeidsmedisiner",
+        "url": "/yrker/beskrivelse/arbeidsmedisiner",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Barne- og ungdomspsykiater",
+        "url": "/yrker/beskrivelse/barne-_og_ungdomspsykiater",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Barnelege",
+        "url": "/yrker/beskrivelse/barnelege",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Geriater",
+        "url": "/yrker/beskrivelse/geriater",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Gynekolog",
+        "url": "/yrker/beskrivelse/gynekolog",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Hematolog",
+        "url": "/yrker/beskrivelse/hematolog",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Hudlege",
+        "url": "/yrker/beskrivelse/hudlege",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Indremedisiner",
+        "url": "/yrker/beskrivelse/indremedisiner",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Kardiolog",
+        "url": "/yrker/beskrivelse/kardiolog",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Kirurg",
+        "url": "/yrker/beskrivelse/kirurg",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Lege",
+        "url": "/yrker/beskrivelse/lege",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Lungespesialist",
+        "url": "/yrker/beskrivelse/lungespesialist",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Nevrolog",
+        "url": "/yrker/beskrivelse/nevrolog",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Nukleærmedisiner",
+        "url": "/yrker/beskrivelse/nukleaermedisiner",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Nyrelege",
+        "url": "/yrker/beskrivelse/nyrelege",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Onkolog",
+        "url": "/yrker/beskrivelse/onkolog",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Patolog",
+        "url": "/yrker/beskrivelse/patolog",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Psykiater",
+        "url": "/yrker/beskrivelse/psykiater",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Radiolog",
+        "url": "/yrker/beskrivelse/radiolog",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Revmatolog",
+        "url": "/yrker/beskrivelse/revmatolog",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Samfunnsmedisiner",
+        "url": "/yrker/beskrivelse/samfunnsmedisiner",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Spesialist i fordøyelsessykdommer",
+        "url": "/yrker/beskrivelse/spesialist_i_fordoyelsessykdommer",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Spesialist i fysikalsk medisin og rehabilitering",
+        "url": "/yrker/beskrivelse/spesialist_i_fysikalsk_medisin_og_rehabilitering",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Øyelege",
+        "url": "/yrker/beskrivelse/oyelege",
+        "education_id": "main_u_medisin"
+    },
+    {
+        "name": "Kjeveortoped",
+        "url": "/yrker/beskrivelse/kjeveortoped",
+        "education_id": "main_u_tannlege"
+    },
+    {
+        "name": "Tannlege",
+        "url": "/yrker/beskrivelse/tannlege",
+        "education_id": "main_u_tannlege"
+    },
+    {
+        "name": "Tannpleier",
+        "url": "/yrker/beskrivelse/tannpleier",
+        "education_id": "main_u_tannpleie"
+    },
+    {
+        "name": "Tanntekniker",
+        "url": "/yrker/beskrivelse/tanntekniker",
+        "education_id": "main_u_tannteknikk"
+    },
+    {
+        "name": "Ergoterapeut",
+        "url": "/yrker/beskrivelse/ergoterapeut",
+        "education_id": "main_u_ergoterapi"
+    },
+    {
+        "name": "Miljøterapeut",
+        "url": "/yrker/beskrivelse/miljoterapeut",
+        "education_id": "main_u_ergoterapi"
+    },
+    {
+        "name": "Fysioterapeut",
+        "url": "/yrker/beskrivelse/fysioterapeut",
+        "education_id": "main_u_fysioterapi"
+    },
+    {
+        "name": "Akupunktør",
+        "url": "/yrker/beskrivelse/akupunktor",
+        "education_id": "main_u_terapi"
+    },
+    {
+        "name": "Aromaterapeut",
+        "url": "/yrker/beskrivelse/aromaterapeut",
+        "education_id": "main_u_terapi"
+    },
+    {
+        "name": "Gestaltterapeut",
+        "url": "/yrker/beskrivelse/gestaltterapeut",
+        "education_id": "main_u_terapi"
+    },
+    {
+        "name": "Homeopat",
+        "url": "/yrker/beskrivelse/homeopat",
+        "education_id": "main_u_terapi"
+    },
+    {
+        "name": "Naprapat",
+        "url": "/yrker/beskrivelse/naprapat",
+        "education_id": "main_u_terapi"
+    },
+    {
+        "name": "Osteopat",
+        "url": "/yrker/beskrivelse/osteopat",
+        "education_id": "main_u_terapi"
+    },
+    {
+        "name": "Psykoterapeut",
+        "url": "/yrker/beskrivelse/psykoterapeut",
+        "education_id": "main_u_terapi"
+    },
+    {
+        "name": "Soneterapeut",
+        "url": "/yrker/beskrivelse/soneterapeut",
+        "education_id": "main_u_terapi"
+    },
+    {
+        "name": "Apoteker",
+        "url": "/yrker/beskrivelse/apoteker",
+        "education_id": "main_u_farmasi"
+    },
+    {
+        "name": "Farmasøyt",
+        "url": "/yrker/beskrivelse/farmasoyt",
+        "education_id": "main_u_farmasi"
+    },
+    {
+        "name": "Planteinspektør",
+        "url": "/yrker/beskrivelse/planteinspektor",
+        "education_id": "main_u_veterinarutdanning"
+    },
+    {
+        "name": "Produktutvikler fiskefôr",
+        "url": "/yrker/beskrivelse/produktutvikler_fiskefor",
+        "education_id": "main_u_veterinarutdanning"
+    },
+    {
+        "name": "Veterinær",
+        "url": "/yrker/beskrivelse/veterinaer",
+        "education_id": "main_u_veterinarutdanning"
+    },
+    {
+        "name": "Dyrepleier",
+        "url": "/yrker/beskrivelse/dyrepleier",
+        "education_id": "main_u_dyrepleie"
+    },
+    {
+        "name": "Idrettskonsulent",
+        "url": "/yrker/beskrivelse/idrettskonsulent",
+        "education_id": "main_u_idrettsfag"
+    },
+    {
+        "name": "Idrettstrener",
+        "url": "/yrker/beskrivelse/idrettstrener",
+        "education_id": "main_u_idrettsfag"
+    },
+    {
+        "name": "Idrettsutøver",
+        "url": "/yrker/beskrivelse/idrettsutover",
+        "education_id": "main_u_idrettsfag"
+    },
+    {
+        "name": "Spesialsykepleier innen psykisk helse og rus",
+        "url": "/yrker/beskrivelse/spesialsykepleier_innen_psykisk_helse_og_rus",
+        "education_id": "main_u_psykisk_helse_evu"
+    },
+    {
+        "name": "Audiograf",
+        "url": "/yrker/beskrivelse/audiograf",
+        "education_id": "main_u_audiografutdanning"
+    },
+    {
+        "name": "Bioingeniør",
+        "url": "/yrker/beskrivelse/bioingenior",
+        "education_id": "main_u_bioingeniorfag"
+    },
+    {
+        "name": "Biokjemiker",
+        "url": "/yrker/beskrivelse/biokjemiker",
+        "education_id": "main_u_bioingeniorfag"
+    },
+    {
+        "name": "Obduksjonstekniker",
+        "url": "/yrker/beskrivelse/obduksjonstekniker",
+        "education_id": "main_u_bioingeniorfag"
+    },
+    {
+        "name": "Produktutvikler fiskefôr",
+        "url": "/yrker/beskrivelse/produktutvikler_fiskefor",
+        "education_id": "main_u_bioingeniorfag"
+    },
+    {
+        "name": "Radiograf",
+        "url": "/yrker/beskrivelse/radiograf",
+        "education_id": "main_u_radiografi"
+    },
+    {
+        "name": "Klinisk ernæringsfysiolog",
+        "url": "/yrker/beskrivelse/klinisk_ernaeringsfysiolog",
+        "education_id": "main_u_ernaring"
+    },
+    {
+        "name": "Kostøkonom",
+        "url": "/yrker/beskrivelse/kostokonom",
+        "education_id": "main_u_ernaring"
+    },
+    {
+        "name": "Fabrikksjef, fiske",
+        "url": "/yrker/beskrivelse/fabrikksjef_fiske",
+        "education_id": "main_u_fiske_havbruk"
+    },
+    {
+        "name": "Fagoperatør akvakultur (fiskeoppdretter)",
+        "url": "/yrker/beskrivelse/fagoperator_akvakultur_fiskeoppdretter",
+        "education_id": "main_u_fiske_havbruk"
+    },
+    {
+        "name": "Produktutvikler fiskefôr",
+        "url": "/yrker/beskrivelse/produktutvikler_fiskefor",
+        "education_id": "main_u_fiske_havbruk"
+    },
+    {
+        "name": "Røkter",
+        "url": "/yrker/beskrivelse/rokter",
+        "education_id": "main_u_fiske_havbruk"
+    },
+    {
+        "name": "Agronom",
+        "url": "/yrker/beskrivelse/agronom",
+        "education_id": "main_u_jordbruk"
+    },
+    {
+        "name": "Avløser",
+        "url": "/yrker/beskrivelse/avloser",
+        "education_id": "main_u_jordbruk"
+    },
+    {
+        "name": "Bonde",
+        "url": "/yrker/beskrivelse/bonde",
+        "education_id": "main_u_jordbruk"
+    },
+    {
+        "name": "Landbruksrådgiver",
+        "url": "/yrker/beskrivelse/landbruksradgiver",
+        "education_id": "main_u_jordbruk"
+    },
+    {
+        "name": "Landbrukssjef",
+        "url": "/yrker/beskrivelse/landbrukssjef",
+        "education_id": "main_u_jordbruk"
+    },
+    {
+        "name": "Fylkesskogmester",
+        "url": "/yrker/beskrivelse/fylkesskogmester",
+        "education_id": "main_u_skogbruk"
+    },
+    {
+        "name": "Landbruksrådgiver",
+        "url": "/yrker/beskrivelse/landbruksradgiver",
+        "education_id": "main_u_skogbruk"
+    },
+    {
+        "name": "Skogbruksleder",
+        "url": "/yrker/beskrivelse/skogbruksleder",
+        "education_id": "main_u_skogbruk"
+    },
+    {
+        "name": "Skogbrukssjef",
+        "url": "/yrker/beskrivelse/skogbrukssjef",
+        "education_id": "main_u_skogbruk"
+    },
+    {
+        "name": "Skogsoperatør",
+        "url": "/yrker/beskrivelse/skogsoperator",
+        "education_id": "main_u_skogbruk"
+    },
+    {
+        "name": "Utmarksforvalter",
+        "url": "/yrker/beskrivelse/utmarksforvalter",
+        "education_id": "main_u_skogbruk"
+    },
+    {
+        "name": "Kaptein",
+        "url": "/yrker/beskrivelse/kaptein",
+        "education_id": "main_u_navigasjon"
+    },
+    {
+        "name": "Kystskipper",
+        "url": "/yrker/beskrivelse/kystskipper",
+        "education_id": "main_u_navigasjon"
+    },
+    {
+        "name": "Overstyrmann",
+        "url": "/yrker/beskrivelse/overstyrmann",
+        "education_id": "main_u_navigasjon"
+    },
+    {
+        "name": "Skipper på fiskefartøy",
+        "url": "/yrker/beskrivelse/skipper_pa_fiskefartoy",
+        "education_id": "main_u_navigasjon"
+    },
+    {
+        "name": "Styrmann",
+        "url": "/yrker/beskrivelse/styrmann",
+        "education_id": "main_u_navigasjon"
+    },
+    {
+        "name": "Innkjøper",
+        "url": "/yrker/beskrivelse/innkjoper",
+        "education_id": "main_u_logistikk"
+    },
+    {
+        "name": "Speditør",
+        "url": "/yrker/beskrivelse/speditor",
+        "education_id": "main_u_logistikk"
+    },
+    {
+        "name": "Ansatt i Forsvaret",
+        "url": "/yrker/beskrivelse/ansatt_i_forsvaret",
+        "education_id": "main_u_militare_fag"
+    },
+    {
+        "name": "HMS-ingeniør",
+        "url": "/yrker/beskrivelse/hms-ingenior",
+        "education_id": "main_u_samfunnssikkerhet_hms"
+    },
+    {
+        "name": "Animatør",
+        "url": "/yrker/beskrivelse/animator",
+        "education_id": "main_u_animasjon_spill_3d"
+    },
+    {
+        "name": "Art director",
+        "url": "/yrker/beskrivelse/art_director",
+        "education_id": "main_u_animasjon_spill_3d"
+    },
+    {
+        "name": "Illustratør",
+        "url": "/yrker/beskrivelse/illustrator",
+        "education_id": "main_u_animasjon_spill_3d"
+    },
+    {
+        "name": "Spilldesigner",
+        "url": "/yrker/beskrivelse/spilldesigner",
+        "education_id": "main_u_animasjon_spill_3d"
+    },
+    {
+        "name": "Spillprogrammerer",
+        "url": "/yrker/beskrivelse/spillprogrammerer",
+        "education_id": "main_u_animasjon_spill_3d"
+    },
+    {
+        "name": "Automatiker",
+        "url": "/yrker/beskrivelse/automatiker",
+        "education_id": "main_u_automatisering"
+    },
+    {
+        "name": "Helsefagarbeider",
+        "url": "/yrker/beskrivelse/helsefagarbeider",
+        "education_id": "main_u_barsel"
+    },
+    {
+        "name": "Helsesekretær",
+        "url": "/yrker/beskrivelse/helsesekretaer",
+        "education_id": "main_u_barsel"
+    },
+    {
+        "name": "Pleiemedarbeider",
+        "url": "/yrker/beskrivelse/pleiemedarbeider",
+        "education_id": "main_u_barsel"
+    },
+    {
+        "name": "Anleggsgartner",
+        "url": "/yrker/beskrivelse/anleggsgartner",
+        "education_id": "main_u_bygg"
+    },
+    {
+        "name": "Arbeidsleder bygg og anlegg",
+        "url": "/yrker/beskrivelse/arbeidsleder_bygg_og_anlegg",
+        "education_id": "main_u_bygg"
+    },
+    {
+        "name": "Byggingeniør",
+        "url": "/yrker/beskrivelse/byggingenior",
+        "education_id": "main_u_bygg"
+    },
+    {
+        "name": "Tømrer",
+        "url": "/yrker/beskrivelse/tomrer",
+        "education_id": "main_u_bygg"
+    },
+    {
+        "name": "Byggingeniør",
+        "url": "/yrker/beskrivelse/byggingenior",
+        "education_id": "main_u_bim_tegner"
+    },
+    {
+        "name": "Snekker",
+        "url": "/yrker/beskrivelse/snekker_0",
+        "education_id": "main_u_bim_tegner"
+    },
+    {
+        "name": "Teknisk tegner",
+        "url": "/yrker/beskrivelse/teknisk_tegner",
+        "education_id": "main_u_bim_tegner"
+    },
+    {
+        "name": "Tømrer",
+        "url": "/yrker/beskrivelse/tomrer",
+        "education_id": "main_u_bim_tegner"
+    },
+    {
+        "name": "Aktivitør",
+        "url": "/yrker/beskrivelse/aktivitor",
+        "education_id": "main_u_eldreomsorg"
+    },
+    {
+        "name": "Helsefagarbeider",
+        "url": "/yrker/beskrivelse/helsefagarbeider",
+        "education_id": "main_u_eldreomsorg"
+    },
+    {
+        "name": "Personlig assistent",
+        "url": "/yrker/beskrivelse/personlig_assistent",
+        "education_id": "main_u_eldreomsorg"
+    },
+    {
+        "name": "Pleiemedarbeider",
+        "url": "/yrker/beskrivelse/pleiemedarbeider",
+        "education_id": "main_u_eldreomsorg"
+    },
+    {
+        "name": "Støttekontakt",
+        "url": "/yrker/beskrivelse/stottekontakt",
+        "education_id": "main_u_eldreomsorg"
+    },
+    {
+        "name": "Filmfotograf",
+        "url": "/yrker/beskrivelse/filmfotograf",
+        "education_id": "main_u_film_tvproduksjon"
+    },
+    {
+        "name": "Medietekniker",
+        "url": "/yrker/beskrivelse/medietekniker",
+        "education_id": "main_u_film_tvproduksjon"
+    },
+    {
+        "name": "TV-fotograf",
+        "url": "/yrker/beskrivelse/tv-fotograf",
+        "education_id": "main_u_film_tvproduksjon"
+    },
+    {
+        "name": "Fotograf",
+        "url": "/yrker/beskrivelse/fotograf",
+        "education_id": "main_u_fotografi"
+    },
+    {
+        "name": "Fotojournalist",
+        "url": "/yrker/beskrivelse/fotojournalist",
+        "education_id": "main_u_fotografi"
+    },
+    {
+        "name": "TV-fotograf",
+        "url": "/yrker/beskrivelse/tv-fotograf",
+        "education_id": "main_u_fotografi"
+    },
+    {
+        "name": "Videokunstner",
+        "url": "/yrker/beskrivelse/videokunstner",
+        "education_id": "main_u_fotografi"
+    },
+    {
+        "name": "Art director",
+        "url": "/yrker/beskrivelse/art_director",
+        "education_id": "main_u_grafisk_design"
+    },
+    {
+        "name": "Grafisk designer",
+        "url": "/yrker/beskrivelse/grafisk_designer",
+        "education_id": "main_u_grafisk_design"
+    },
+    {
+        "name": "Markedsfører",
+        "url": "/yrker/beskrivelse/markedsforer",
+        "education_id": "main_u_grafisk_design"
+    },
+    {
+        "name": "Webdesigner",
+        "url": "/yrker/beskrivelse/webdesigner",
+        "education_id": "main_u_grafisk_design"
+    },
+    {
+        "name": "Helsesekretær",
+        "url": "/yrker/beskrivelse/helsesekretaer",
+        "education_id": "main_u_helseadmin"
+    },
+    {
+        "name": "Service- og administrasjonsmedarbeider",
+        "url": "/yrker/beskrivelse/service-_og_administrasjonsmedarbeider",
+        "education_id": "main_u_helseadmin"
+    },
+    {
+        "name": "Interiørarkitekt",
+        "url": "/yrker/beskrivelse/interiorarkitekt",
+        "education_id": "main_u_interiorfagskole"
+    },
+    {
+        "name": "Interiørkonsulent",
+        "url": "/yrker/beskrivelse/interiorkonsulent",
+        "education_id": "main_u_interiorfagskole"
+    },
+    {
+        "name": "IT-administrator",
+        "url": "/yrker/beskrivelse/it-administrator",
+        "education_id": "main_u_it_webutvikling"
+    },
+    {
+        "name": "IT-driftstekniker",
+        "url": "/yrker/beskrivelse/it-driftstekniker",
+        "education_id": "main_u_it_webutvikling"
+    },
+    {
+        "name": "IT-konsulent",
+        "url": "/yrker/beskrivelse/it-konsulent",
+        "education_id": "main_u_it_webutvikling"
+    },
+    {
+        "name": "IT-utvikler (fagbrev)",
+        "url": "/yrker/beskrivelse/it-utvikler_fagbrev",
+        "education_id": "main_u_it_webutvikling"
+    },
+    {
+        "name": "Nettverkstekniker",
+        "url": "/yrker/beskrivelse/nettverkstekniker",
+        "education_id": "main_u_it_webutvikling"
+    },
+    {
+        "name": "Systemutvikler",
+        "url": "/yrker/beskrivelse/systemutvikler",
+        "education_id": "main_u_it_webutvikling"
+    },
+    {
+        "name": "Webdesigner",
+        "url": "/yrker/beskrivelse/webdesigner",
+        "education_id": "main_u_it_webutvikling"
+    },
+    {
+        "name": "Arbeidsleder bygg og anlegg",
+        "url": "/yrker/beskrivelse/arbeidsleder_bygg_og_anlegg",
+        "education_id": "main_u_kem_fag"
+    },
+    {
+        "name": "Byggingeniør",
+        "url": "/yrker/beskrivelse/byggingenior",
+        "education_id": "main_u_kem_fag"
+    },
+    {
+        "name": "Industrirørlegger",
+        "url": "/yrker/beskrivelse/industrirorlegger",
+        "education_id": "main_u_kem_fag"
+    },
+    {
+        "name": "Kulde- og varmepumpetekniker",
+        "url": "/yrker/beskrivelse/kulde-_og_varmepumpetekniker",
+        "education_id": "main_u_kem_fag"
+    },
+    {
+        "name": "Helsefagarbeider",
+        "url": "/yrker/beskrivelse/helsefagarbeider",
+        "education_id": "main_u_kreftomsorg"
+    },
+    {
+        "name": "Pleiemedarbeider",
+        "url": "/yrker/beskrivelse/pleiemedarbeider",
+        "education_id": "main_u_kreftomsorg"
+    },
+    {
+        "name": "Billedkunstner",
+        "url": "/yrker/beskrivelse/billedkunstner",
+        "education_id": "main_u_kunstfag"
+    },
+    {
+        "name": "Illustratør",
+        "url": "/yrker/beskrivelse/illustrator",
+        "education_id": "main_u_kunstfag"
+    },
+    {
+        "name": "Kunsthåndverker",
+        "url": "/yrker/beskrivelse/kunsthandverker",
+        "education_id": "main_u_kunstfag"
+    },
+    {
+        "name": "Kunstner",
+        "url": "/yrker/beskrivelse/kunstner",
+        "education_id": "main_u_kunstfag"
+    },
+    {
+        "name": "Lydkunstner",
+        "url": "/yrker/beskrivelse/lydkunstner",
+        "education_id": "main_u_kunstfag"
+    },
+    {
+        "name": "Videokunstner",
+        "url": "/yrker/beskrivelse/videokunstner",
+        "education_id": "main_u_kunstfag"
+    },
+    {
+        "name": "Logistikkoperatør",
+        "url": "/yrker/beskrivelse/logistikkoperator",
+        "education_id": "main_u_logistikkfs"
+    },
+    {
+        "name": "Speditør",
+        "url": "/yrker/beskrivelse/speditor",
+        "education_id": "main_u_logistikkfs"
+    },
+    {
+        "name": "Lydkunstner",
+        "url": "/yrker/beskrivelse/lydkunstner",
+        "education_id": "main_u_lyd_og_musikkpoduksjon"
+    },
+    {
+        "name": "Lydtekniker",
+        "url": "/yrker/beskrivelse/lydtekniker",
+        "education_id": "main_u_lyd_og_musikkpoduksjon"
+    },
+    {
+        "name": "Musikkprodusent",
+        "url": "/yrker/beskrivelse/musikkprodusent",
+        "education_id": "main_u_lyd_og_musikkpoduksjon"
+    },
+    {
+        "name": "Arrangementsplanlegger",
+        "url": "/yrker/beskrivelse/arrangementsplanlegger",
+        "education_id": "main_u_markedsforingsfagskole"
+    },
+    {
+        "name": "Influenser",
+        "url": "/yrker/beskrivelse/influenser",
+        "education_id": "main_u_markedsforingsfagskole"
+    },
+    {
+        "name": "Kommunikasjonsrådgiver",
+        "url": "/yrker/beskrivelse/kommunikasjonsradgiver",
+        "education_id": "main_u_markedsforingsfagskole"
+    },
+    {
+        "name": "Markedsfører",
+        "url": "/yrker/beskrivelse/markedsforer",
+        "education_id": "main_u_markedsforingsfagskole"
+    },
+    {
+        "name": "Markedssjef",
+        "url": "/yrker/beskrivelse/markedssjef",
+        "education_id": "main_u_markedsforingsfagskole"
+    },
+    {
+        "name": "Tekstforfatter",
+        "url": "/yrker/beskrivelse/tekstforfatter",
+        "education_id": "main_u_markedsforingsfagskole"
+    },
+    {
+        "name": "Fabrikksjef, fiske",
+        "url": "/yrker/beskrivelse/fabrikksjef_fiske",
+        "education_id": "main_u_dekksoffiser"
+    },
+    {
+        "name": "Kaptein",
+        "url": "/yrker/beskrivelse/kaptein",
+        "education_id": "main_u_dekksoffiser"
+    },
+    {
+        "name": "Kystskipper",
+        "url": "/yrker/beskrivelse/kystskipper",
+        "education_id": "main_u_dekksoffiser"
+    },
+    {
+        "name": "Overstyrmann",
+        "url": "/yrker/beskrivelse/overstyrmann",
+        "education_id": "main_u_dekksoffiser"
+    },
+    {
+        "name": "Skipper på fiskefartøy",
+        "url": "/yrker/beskrivelse/skipper_pa_fiskefartoy",
+        "education_id": "main_u_dekksoffiser"
+    },
+    {
+        "name": "Styrmann",
+        "url": "/yrker/beskrivelse/styrmann",
+        "education_id": "main_u_dekksoffiser"
+    },
+    {
+        "name": "Ernæringskokk",
+        "url": "/yrker/beskrivelse/ernaeringskokk",
+        "education_id": "main_u_matteknikk"
+    },
+    {
+        "name": "Fagarbeider industriell matproduksjon",
+        "url": "/yrker/beskrivelse/fagarbeider_industriell_matproduksjon",
+        "education_id": "main_u_matteknikk"
+    },
+    {
+        "name": "Fagarbeider sjømatproduksjon",
+        "url": "/yrker/beskrivelse/fagarbeider_sjomatproduksjon",
+        "education_id": "main_u_matteknikk"
+    },
+    {
+        "name": "Ferskvarehandler",
+        "url": "/yrker/beskrivelse/ferskvarehandler",
+        "education_id": "main_u_matteknikk"
+    },
+    {
+        "name": "Kjøttskjærer",
+        "url": "/yrker/beskrivelse/kjottskjaerer",
+        "education_id": "main_u_matteknikk"
+    },
+    {
+        "name": "Kokk",
+        "url": "/yrker/beskrivelse/kokk",
+        "education_id": "main_u_matteknikk"
+    },
+    {
+        "name": "Mattekniker",
+        "url": "/yrker/beskrivelse/mattekniker",
+        "education_id": "main_u_matteknikk"
+    },
+    {
+        "name": "Pølsemaker",
+        "url": "/yrker/beskrivelse/polsemaker",
+        "education_id": "main_u_matteknikk"
+    },
+    {
+        "name": "Fagoperatør i kjemisk prosessindustri (Prosesstekniker)",
+        "url": "/yrker/beskrivelse/fagoperator_i_kjemisk_prosessindustri_prosesstekniker",
+        "education_id": "main_u_prosessteknikk"
+    },
+    {
+        "name": "Barne- og ungdomsarbeider",
+        "url": "/yrker/beskrivelse/barne-_og_ungdomsarbeider",
+        "education_id": "main_u_psykisk_helsearbeid"
+    },
+    {
+        "name": "Barnehageassistent",
+        "url": "/yrker/beskrivelse/barnehageassistent",
+        "education_id": "main_u_psykisk_helsearbeid"
+    },
+    {
+        "name": "Helsefagarbeider",
+        "url": "/yrker/beskrivelse/helsefagarbeider",
+        "education_id": "main_u_psykisk_helsearbeid"
+    },
+    {
+        "name": "Miljøarbeider",
+        "url": "/yrker/beskrivelse/miljoarbeider",
+        "education_id": "main_u_psykisk_helsearbeid"
+    },
+    {
+        "name": "Pleiemedarbeider",
+        "url": "/yrker/beskrivelse/pleiemedarbeider",
+        "education_id": "main_u_psykisk_helsearbeid"
+    },
+    {
+        "name": "Helsefagarbeider",
+        "url": "/yrker/beskrivelse/helsefagarbeider",
+        "education_id": "main_u_rehabilitering"
+    },
+    {
+        "name": "Pleiemedarbeider",
+        "url": "/yrker/beskrivelse/pleiemedarbeider",
+        "education_id": "main_u_rehabilitering"
+    },
+    {
+        "name": "Guide",
+        "url": "/yrker/beskrivelse/guide",
+        "education_id": "main_u_reiselivfagskole"
+    },
+    {
+        "name": "Reiseleder",
+        "url": "/yrker/beskrivelse/reiseleder",
+        "education_id": "main_u_reiselivfagskole"
+    },
+    {
+        "name": "Reiselivsmedarbeider",
+        "url": "/yrker/beskrivelse/reiselivsmedarbeider",
+        "education_id": "main_u_reiselivfagskole"
+    },
+    {
+        "name": "Helsefagarbeider",
+        "url": "/yrker/beskrivelse/helsefagarbeider",
+        "education_id": "main_u_miljoarbeid"
+    },
+    {
+        "name": "Miljøarbeider",
+        "url": "/yrker/beskrivelse/miljoarbeider",
+        "education_id": "main_u_miljoarbeid"
+    },
+    {
+        "name": "Miljøterapeut",
+        "url": "/yrker/beskrivelse/miljoterapeut",
+        "education_id": "main_u_miljoarbeid"
+    },
+    {
+        "name": "Personlig assistent",
+        "url": "/yrker/beskrivelse/personlig_assistent",
+        "education_id": "main_u_miljoarbeid"
+    },
+    {
+        "name": "Pleiemedarbeider",
+        "url": "/yrker/beskrivelse/pleiemedarbeider",
+        "education_id": "main_u_miljoarbeid"
+    },
+    {
+        "name": "Skoleassistent",
+        "url": "/yrker/beskrivelse/skoleassistent",
+        "education_id": "main_u_miljoarbeid"
+    },
+    {
+        "name": "Skolefritidsleder (SFO)",
+        "url": "/yrker/beskrivelse/skolefritidsleder_sfo",
+        "education_id": "main_u_miljoarbeid"
+    },
+    {
+        "name": "Støttekontakt",
+        "url": "/yrker/beskrivelse/stottekontakt",
+        "education_id": "main_u_miljoarbeid"
+    },
+    {
+        "name": "Advokatassistent",
+        "url": "/yrker/beskrivelse/advokatassistent",
+        "education_id": "main_u_kontor"
+    },
+    {
+        "name": "Advokatsekretær",
+        "url": "/yrker/beskrivelse/advokatsekretaer",
+        "education_id": "main_u_kontor"
+    },
+    {
+        "name": "Sekretær",
+        "url": "/yrker/beskrivelse/sekretaer",
+        "education_id": "main_u_kontor"
+    },
+    {
+        "name": "Service- og administrasjonsmedarbeider",
+        "url": "/yrker/beskrivelse/service-_og_administrasjonsmedarbeider",
+        "education_id": "main_u_kontor"
+    },
+    {
+        "name": "Hudpleier",
+        "url": "/yrker/beskrivelse/hudpleier",
+        "education_id": "main_u_sminke"
+    },
+    {
+        "name": "Sminkør",
+        "url": "/yrker/beskrivelse/sminkor",
+        "education_id": "main_u_sminke"
+    },
+    {
+        "name": "Arbeidsleder innen industri og produksjon",
+        "url": "/yrker/beskrivelse/arbeidsleder_innen_industri_og_produksjon",
+        "education_id": "main_u_sveisetknikk"
+    },
+    {
+        "name": "Petroleumsingeniør",
+        "url": "/yrker/beskrivelse/petroleumsingenior",
+        "education_id": "main_u_sveisetknikk"
+    },
+    {
+        "name": "Sveiser",
+        "url": "/yrker/beskrivelse/sveiser",
+        "education_id": "main_u_sveisetknikk"
+    },
+    {
+        "name": "Flyinstruktør",
+        "url": "/yrker/beskrivelse/flyinstruktor",
+        "education_id": "main_u_trafikkflyger"
+    },
+    {
+        "name": "Pilot",
+        "url": "/yrker/beskrivelse/pilot",
+        "education_id": "main_u_trafikkflyger"
+    },
+    {
+        "name": "Butikksjef",
+        "url": "/yrker/beskrivelse/butikksjef",
+        "education_id": "main_u_okadm_ledelse"
+    },
+    {
+        "name": "Kundeansvarlig (salg)",
+        "url": "/yrker/beskrivelse/kundeansvarlig_salg",
+        "education_id": "main_u_okadm_ledelse"
+    },
+    {
+        "name": "Leder",
+        "url": "/yrker/beskrivelse/leder",
+        "education_id": "main_u_okadm_ledelse"
+    },
+    {
+        "name": "Saksbehandler",
+        "url": "/yrker/beskrivelse/saksbehandler",
+        "education_id": "main_u_okadm_ledelse"
+    },
+    {
+        "name": "Salgssjef",
+        "url": "/yrker/beskrivelse/salgssjef",
+        "education_id": "main_u_okadm_ledelse"
+    },
+    {
+        "name": "Økonom",
+        "url": "/yrker/beskrivelse/okonom",
+        "education_id": "main_u_okadm_ledelse"
+    },
+    {
+        "name": "Økonomikonsulent",
+        "url": "/yrker/beskrivelse/okonomikonsulent",
+        "education_id": "main_u_okadm_ledelse"
+    },
+    {
+        "name": "Økonomisjef",
+        "url": "/yrker/beskrivelse/okonomisjef",
+        "education_id": "main_u_okadm_ledelse"
+    },
+    {
+        "name": "Anestesisykepleier",
+        "url": "/yrker/beskrivelse/anestesisykepleier",
+        "education_id": "main_u_sykepleie_evu"
+    },
+    {
+        "name": "Barnesykepleier",
+        "url": "/yrker/beskrivelse/barnesykepleier",
+        "education_id": "main_u_sykepleie_evu"
+    },
+    {
+        "name": "Helsesykepleier",
+        "url": "/yrker/beskrivelse/helsesykepleier",
+        "education_id": "main_u_sykepleie_evu"
+    },
+    {
+        "name": "Intensivsykepleier",
+        "url": "/yrker/beskrivelse/intensivsykepleier",
+        "education_id": "main_u_sykepleie_evu"
+    },
+    {
+        "name": "Jordmor",
+        "url": "/yrker/beskrivelse/jordmor",
+        "education_id": "main_u_sykepleie_evu"
+    },
+    {
+        "name": "Kreftsykepleier",
+        "url": "/yrker/beskrivelse/kreftsykepleier",
+        "education_id": "main_u_sykepleie_evu"
+    },
+    {
+        "name": "Nevrosykepleier",
+        "url": "/yrker/beskrivelse/nevrosykepleier",
+        "education_id": "main_u_sykepleie_evu"
+    },
+    {
+        "name": "Operasjonssykepleier",
+        "url": "/yrker/beskrivelse/operasjonssykepleier",
+        "education_id": "main_u_sykepleie_evu"
+    },
+    {
+        "name": "Spesialsykepleier innen psykisk helse og rus",
+        "url": "/yrker/beskrivelse/spesialsykepleier_innen_psykisk_helse_og_rus",
+        "education_id": "main_u_sykepleie_evu"
+    },
+    {
+        "name": "Butikksjef",
+        "url": "/yrker/beskrivelse/butikksjef",
+        "education_id": "main_u_okadm_evu"
+    },
+    {
+        "name": "Idrettskonsulent",
+        "url": "/yrker/beskrivelse/idrettskonsulent",
+        "education_id": "main_u_okadm_evu"
+    },
+    {
+        "name": "Leder",
+        "url": "/yrker/beskrivelse/leder",
+        "education_id": "main_u_okadm_evu"
+    },
+    {
+        "name": "Radiograf",
+        "url": "/yrker/beskrivelse/radiograf",
+        "education_id": "main_u_radiografi_evu"
+    },
+    {
+        "name": "Barnevernspedagog",
+        "url": "/yrker/beskrivelse/barnevernspedagog",
+        "education_id": "main_u_sosial_evu"
+    },
+    {
+        "name": "Barnevernspedagog",
+        "url": "/yrker/beskrivelse/barnevernspedagog",
+        "education_id": "main_u_psykososialt_arbeid"
+    },
+    {
+        "name": "Regnskapsfører",
+        "url": "/yrker/beskrivelse/regnskapsforer",
+        "education_id": "main_u_regnskap_revisjon"
+    },
+    {
+        "name": "Revisor",
+        "url": "/yrker/beskrivelse/revisor",
+        "education_id": "main_u_regnskap_revisjon"
+    },
+    {
+        "name": "Lektor",
+        "url": "/yrker/beskrivelse/lektor",
+        "education_id": "main_u_lektorutdanning"
+    },
+    {
+        "name": "Lærer",
+        "url": "/yrker/beskrivelse/laerer",
+        "education_id": "main_u_lektorutdanning"
+    },
+    {
+        "name": "Undervisningsinspektør",
+        "url": "/yrker/beskrivelse/undervisningsinspektor",
+        "education_id": "main_u_lektorutdanning"
+    },
+    {
+        "name": "Diakon",
+        "url": "/yrker/beskrivelse/diakon",
+        "education_id": "main_u_diakoni"
+    },
+    {
+        "name": "Kirkeverge",
+        "url": "/yrker/beskrivelse/kirkeverge",
+        "education_id": "main_u_diakoni"
+    },
+    {
+        "name": "Fysioterapeut",
+        "url": "/yrker/beskrivelse/fysioterapeut",
+        "education_id": "main_u_fysioterapi_evu"
+    },
+    {
+        "name": "Dirigent",
+        "url": "/yrker/beskrivelse/dirigent",
+        "education_id": "main_u_utovende_musikk"
+    },
+    {
+        "name": "Musiker",
+        "url": "/yrker/beskrivelse/musiker",
+        "education_id": "main_u_utovende_musikk"
+    },
+    {
+        "name": "Musikkprodusent",
+        "url": "/yrker/beskrivelse/musikkprodusent",
+        "education_id": "main_u_utovende_musikk"
+    },
+    {
+        "name": "Organist/Kantor",
+        "url": "/yrker/beskrivelse/organistkantor",
+        "education_id": "main_u_utovende_musikk"
+    },
+    {
+        "name": "Sanger",
+        "url": "/yrker/beskrivelse/sanger",
+        "education_id": "main_u_utovende_musikk"
+    },
+    {
+        "name": "Industridesigner",
+        "url": "/yrker/beskrivelse/industridesigner",
+        "education_id": "main_u_ind_design"
+    },
+    {
+        "name": "Oversetter",
+        "url": "/yrker/beskrivelse/oversetter",
+        "education_id": "main_u_tegnsprak_tolking"
+    },
+    {
+        "name": "Tegnspråktolk",
+        "url": "/yrker/beskrivelse/tegnspraktolk",
+        "education_id": "main_u_tegnsprak_tolking"
+    },
+    {
+        "name": "Tolk",
+        "url": "/yrker/beskrivelse/tolk",
+        "education_id": "main_u_tegnsprak_tolking"
+    },
+    {
+        "name": "Bistandsarbeider",
+        "url": "/yrker/beskrivelse/bistandsarbeider",
+        "education_id": "main_u_utviklingsstudier"
+    },
+    {
+        "name": "Matteknolog",
+        "url": "/yrker/beskrivelse/matteknolog",
+        "education_id": "main_u_matteknologi"
+    },
+    {
+        "name": "Arealplanlegger",
+        "url": "/yrker/beskrivelse/arealplanlegger",
+        "education_id": "main_u_samfunnsplanlegging"
+    },
+    {
+        "name": "Samfunnsplanlegger",
+        "url": "/yrker/beskrivelse/samfunnsplanlegger",
+        "education_id": "main_u_samfunnsplanlegging"
+    },
+    {
+        "name": "Forretningsutvikler",
+        "url": "/yrker/beskrivelse/forretningsutvikler",
+        "education_id": "main_u_entreprenorskap"
+    },
+    {
+        "name": "Gründer",
+        "url": "/yrker/beskrivelse/grunder",
+        "education_id": "main_u_entreprenorskap"
+    },
+    {
+        "name": "Influenser",
+        "url": "/yrker/beskrivelse/influenser",
+        "education_id": "main_u_entreprenorskap"
+    },
+    {
+        "name": "Naturforvalter",
+        "url": "/yrker/beskrivelse/naturforvalter",
+        "education_id": "main_u_naturforvaltning"
+    },
+    {
+        "name": "Etterforsker",
+        "url": "/yrker/beskrivelse/etterforsker",
+        "education_id": "main_u_politiutdanning"
+    },
+    {
+        "name": "Politi",
+        "url": "/yrker/beskrivelse/politi",
+        "education_id": "main_u_politiutdanning"
+    },
+    {
+        "name": "Politibetjent",
+        "url": "/yrker/beskrivelse/politibetjent",
+        "education_id": "main_u_politiutdanning"
+    },
+    {
+        "name": "Kirkeverge",
+        "url": "/yrker/beskrivelse/kirkeverge",
+        "education_id": "main_u_teologi"
+    },
+    {
+        "name": "Misjonær",
+        "url": "/yrker/beskrivelse/misjonaer",
+        "education_id": "main_u_teologi"
+    },
+    {
+        "name": "Prest",
+        "url": "/yrker/beskrivelse/prest",
+        "education_id": "main_u_teologi"
+    },
+    {
+        "name": "Art director",
+        "url": "/yrker/beskrivelse/art_director",
+        "education_id": "main_u_visuell_kom"
+    },
+    {
+        "name": "Megler",
+        "url": "/yrker/beskrivelse/megler",
+        "education_id": "main_u_shipping"
+    },
+    {
+        "name": "Skipsmegler",
+        "url": "/yrker/beskrivelse/skipsmegler",
+        "education_id": "main_u_shipping"
+    },
+    {
+        "name": "Fiskehelsebiolog",
+        "url": "/yrker/beskrivelse/fiskehelsebiolog",
+        "education_id": "main_u_akvamedisin"
+    },
+    {
+        "name": "Produktutvikler fiskefôr",
+        "url": "/yrker/beskrivelse/produktutvikler_fiskefor",
+        "education_id": "main_u_akvamedisin"
+    },
+    {
+        "name": "Musikkterapeut",
+        "url": "/yrker/beskrivelse/musikkterapeut",
+        "education_id": "main_u_musikkterapi"
+    },
+    {
+        "name": "Landbruksrådgiver",
+        "url": "/yrker/beskrivelse/landbruksradgiver",
+        "education_id": "main_u_plantevitenskap"
+    },
+    {
+        "name": "Planteinspektør",
+        "url": "/yrker/beskrivelse/planteinspektor",
+        "education_id": "main_u_plantevitenskap"
+    },
+    {
+        "name": "Planteviter",
+        "url": "/yrker/beskrivelse/planteviter",
+        "education_id": "main_u_plantevitenskap"
+    },
+    {
+        "name": "Havbrukstekniker",
+        "url": "/yrker/beskrivelse/havbrukstekniker",
+        "education_id": "main_u_akvakultur"
+    },
+    {
+        "name": "Røkter",
+        "url": "/yrker/beskrivelse/rokter",
+        "education_id": "main_u_akvakultur"
+    },
+    {
+        "name": "Anleggsgartner",
+        "url": "/yrker/beskrivelse/anleggsgartner",
+        "education_id": "main_u_gartneri_hagebruk"
+    },
+    {
+        "name": "Blomsterdekoratør",
+        "url": "/yrker/beskrivelse/blomsterdekorator",
+        "education_id": "main_u_gartneri_hagebruk"
+    },
+    {
+        "name": "Gartner",
+        "url": "/yrker/beskrivelse/gartner",
+        "education_id": "main_u_gartneri_hagebruk"
+    },
+    {
+        "name": "Arbeidsleder innen industri og produksjon",
+        "url": "/yrker/beskrivelse/arbeidsleder_innen_industri_og_produksjon",
+        "education_id": "main_u_tip"
+    },
+    {
+        "name": "IT-driftstekniker",
+        "url": "/yrker/beskrivelse/it-driftstekniker",
+        "education_id": "main_u_datateknikk"
+    },
+    {
+        "name": "IT-prosjektleder",
+        "url": "/yrker/beskrivelse/it-prosjektleder",
+        "education_id": "main_u_datateknikk"
+    },
+    {
+        "name": "Sikkerhetsrådgiver (IT)",
+        "url": "/yrker/beskrivelse/sikkerhetsradgiver_it",
+        "education_id": "main_u_datateknikk"
+    },
+    {
+        "name": "Supportkonsulent",
+        "url": "/yrker/beskrivelse/supportkonsulent",
+        "education_id": "main_u_datateknikk"
+    },
+    {
+        "name": "Elektroingeniør",
+        "url": "/yrker/beskrivelse/elektroingenior",
+        "education_id": "main_u_elektro"
+    },
+    {
+        "name": "Bore- og vedlikeholdsoperatør",
+        "url": "/yrker/beskrivelse/bore-_og_vedlikeholdsoperator",
+        "education_id": "main_u_petroleum"
+    },
+    {
+        "name": "Brønnoperatør for elektriske kabeloperasjoner",
+        "url": "/yrker/beskrivelse/bronnoperator_elektriske_kabeloperasjoner",
+        "education_id": "main_u_petroleum"
+    },
+    {
+        "name": "Brønnoperatør for mekaniske kabeloperasjoner",
+        "url": "/yrker/beskrivelse/bronnoperator_mekaniske_kabeloperasjoner",
+        "education_id": "main_u_petroleum"
+    },
+    {
+        "name": "Brønnoperatør havbunnsinstallasjoner",
+        "url": "/yrker/beskrivelse/bronnoperator_havbunnsinstallasjoner",
+        "education_id": "main_u_petroleum"
+    },
+    {
+        "name": "Brønnoperatør komplettering",
+        "url": "/yrker/beskrivelse/bronnoperator_komplettering",
+        "education_id": "main_u_petroleum"
+    },
+    {
+        "name": "Brønnoperatør kveilerør",
+        "url": "/yrker/beskrivelse/bronnoperator_kveileror",
+        "education_id": "main_u_petroleum"
+    },
+    {
+        "name": "Brønnoperatør sementering",
+        "url": "/yrker/beskrivelse/bronnoperator_sementering",
+        "education_id": "main_u_petroleum"
+    },
+    {
+        "name": "Petroleumsingeniør",
+        "url": "/yrker/beskrivelse/petroleumsingenior",
+        "education_id": "main_u_petroleum"
+    },
+    {
+        "name": "Maskinist",
+        "url": "/yrker/beskrivelse/maskinist",
+        "education_id": "main_u_maritime_fag"
+    },
+    {
+        "name": "Maskinsjef",
+        "url": "/yrker/beskrivelse/maskinsjef",
+        "education_id": "main_u_maritime_fag"
+    },
+    {
+        "name": "Helsefagarbeider",
+        "url": "/yrker/beskrivelse/helsefagarbeider",
+        "education_id": "main_u_helsefagfs"
+    },
+    {
+        "name": "Personlig assistent",
+        "url": "/yrker/beskrivelse/personlig_assistent",
+        "education_id": "main_u_helsefagfs"
+    },
+    {
+        "name": "Pleiemedarbeider",
+        "url": "/yrker/beskrivelse/pleiemedarbeider",
+        "education_id": "main_u_helsefagfs"
+    },
+    {
+        "name": "Støttekontakt",
+        "url": "/yrker/beskrivelse/stottekontakt",
+        "education_id": "main_u_helsefagfs"
+    },
+    {
+        "name": "Barne- og ungdomsarbeider",
+        "url": "/yrker/beskrivelse/barne-_og_ungdomsarbeider",
+        "education_id": "main_u_oppvekstfag"
+    },
+    {
+        "name": "Barnehageassistent",
+        "url": "/yrker/beskrivelse/barnehageassistent",
+        "education_id": "main_u_oppvekstfag"
+    },
+    {
+        "name": "Miljøarbeider",
+        "url": "/yrker/beskrivelse/miljoarbeider",
+        "education_id": "main_u_oppvekstfag"
+    },
+    {
+        "name": "Personlig assistent",
+        "url": "/yrker/beskrivelse/personlig_assistent",
+        "education_id": "main_u_oppvekstfag"
+    },
+    {
+        "name": "Skoleassistent",
+        "url": "/yrker/beskrivelse/skoleassistent",
+        "education_id": "main_u_oppvekstfag"
+    },
+    {
+        "name": "Skolefritidsleder (SFO)",
+        "url": "/yrker/beskrivelse/skolefritidsleder_sfo",
+        "education_id": "main_u_oppvekstfag"
+    },
+    {
+        "name": "Støttekontakt",
+        "url": "/yrker/beskrivelse/stottekontakt",
+        "education_id": "main_u_oppvekstfag"
+    },
+    {
+        "name": "Avløser",
+        "url": "/yrker/beskrivelse/avloser",
+        "education_id": "main_u_naturbruk"
+    },
+    {
+        "name": "Bonde",
+        "url": "/yrker/beskrivelse/bonde",
+        "education_id": "main_u_naturbruk"
+    },
+    {
+        "name": "Dyrepleier",
+        "url": "/yrker/beskrivelse/dyrepleier",
+        "education_id": "main_u_naturbruk"
+    },
+    {
+        "name": "Landbruksrådgiver",
+        "url": "/yrker/beskrivelse/landbruksradgiver",
+        "education_id": "main_u_naturbruk"
+    },
+    {
+        "name": "Jobbveileder",
+        "url": "/yrker/beskrivelse/jobbveileder",
+        "education_id": "main_u_samfunnsfag"
+    },
+    {
+        "name": "Saksbehandler",
+        "url": "/yrker/beskrivelse/saksbehandler",
+        "education_id": "main_u_samfunnsfag"
+    },
+    {
+        "name": "Jobbveileder",
+        "url": "/yrker/beskrivelse/jobbveileder",
+        "education_id": "main_u_karriereradgiving"
+    },
+    {
+        "name": "Karriereveileder",
+        "url": "/yrker/beskrivelse/karriereveileder",
+        "education_id": "main_u_karriereradgiving"
+    },
+    {
+        "name": "Pilot",
+        "url": "/yrker/beskrivelse/pilot",
+        "education_id": "main_u_luftfart"
+    },
+    {
+        "name": "IT-arkitekt",
+        "url": "/yrker/beskrivelse/it-arkitekt",
+        "education_id": "main_u_dataingenior"
+    },
+    {
+        "name": "IT-leder",
+        "url": "/yrker/beskrivelse/it-leder",
+        "education_id": "main_u_dataingenior"
+    },
+    {
+        "name": "Systemutvikler",
+        "url": "/yrker/beskrivelse/systemutvikler",
+        "education_id": "main_u_dataingenior"
+    },
+    {
+        "name": "Astronom",
+        "url": "/yrker/beskrivelse/astronom",
+        "education_id": "main_u_informatikk"
+    },
+    {
+        "name": "Dataviter (data scientist)",
+        "url": "/yrker/beskrivelse/dataviter_data_scientist",
+        "education_id": "main_u_informatikk"
+    },
+    {
+        "name": "IT-arkitekt",
+        "url": "/yrker/beskrivelse/it-arkitekt",
+        "education_id": "main_u_informatikk"
+    },
+    {
+        "name": "IT-leder",
+        "url": "/yrker/beskrivelse/it-leder",
+        "education_id": "main_u_informatikk"
+    },
+    {
+        "name": "Systemutvikler",
+        "url": "/yrker/beskrivelse/systemutvikler",
+        "education_id": "main_u_informatikk"
+    },
+    {
+        "name": "Sikkerhetsrådgiver (IT)",
+        "url": "/yrker/beskrivelse/sikkerhetsradgiver_it",
+        "education_id": "main_u_datasikkerhet"
+    },
+    {
+        "name": "Interaksjonsdesigner",
+        "url": "/yrker/beskrivelse/interaksjonsdesigner",
+        "education_id": "main_u_interaksjonsdesign"
+    },
+    {
+        "name": "Webdesigner",
+        "url": "/yrker/beskrivelse/webdesigner",
+        "education_id": "main_u_interaksjonsdesign"
+    },
+    {
+        "name": "Grafisk designer",
+        "url": "/yrker/beskrivelse/grafisk_designer",
+        "education_id": "main_u_grafisk_design_uh"
+    },
+    {
+        "name": "Webdesigner",
+        "url": "/yrker/beskrivelse/webdesigner",
+        "education_id": "main_u_grafisk_design_uh"
+    },
+    {
+        "name": "Arbeidsleder bygg og anlegg",
+        "url": "/yrker/beskrivelse/arbeidsleder_bygg_og_anlegg",
+        "education_id": "main_u_byggingenior"
+    },
+    {
+        "name": "Byggingeniør",
+        "url": "/yrker/beskrivelse/byggingenior",
+        "education_id": "main_u_byggingenior"
+    },
+    {
+        "name": "Ingeniør i energi og miljø i bygg",
+        "url": "/yrker/beskrivelse/ingenior_i_energi_og_miljo_i_bygg",
+        "education_id": "main_u_byggingenior"
+    },
+    {
+        "name": "Lydkunstner",
+        "url": "/yrker/beskrivelse/lydkunstner",
+        "education_id": "main_u_lyd_lysdesign"
+    },
+    {
+        "name": "Lydtekniker",
+        "url": "/yrker/beskrivelse/lydtekniker",
+        "education_id": "main_u_lyd_lysdesign"
+    },
+    {
+        "name": "Lystekniker",
+        "url": "/yrker/beskrivelse/lystekniker",
+        "education_id": "main_u_lyd_lysdesign"
+    },
+    {
+        "name": "Fengselsbetjent",
+        "url": "/yrker/beskrivelse/fengselsbetjent",
+        "education_id": "main_u_fengselsbetjent"
+    },
+    {
+        "name": "Trafikklærer",
+        "url": "/yrker/beskrivelse/trafikklaerer",
+        "education_id": "main_u_trafikklarer"
+    },
+    {
+        "name": "Personalrådgiver",
+        "url": "/yrker/beskrivelse/personalradgiver",
+        "education_id": "main_u_hr_og_personalledelse"
+    },
+    {
+        "name": "Personalsjef",
+        "url": "/yrker/beskrivelse/personalsjef",
+        "education_id": "main_u_hr_og_personalledelse"
+    },
+    {
+        "name": "Barnehagelærer",
+        "url": "/yrker/beskrivelse/barnehagelaerer",
+        "education_id": "main_u_barnehagelaerer_evu"
+    },
+    {
+        "name": "Oversetter",
+        "url": "/yrker/beskrivelse/oversetter",
+        "education_id": "main_u_samiske_sprak"
+    },
+    {
+        "name": "Bonde",
+        "url": "/yrker/beskrivelse/bonde",
+        "education_id": "main_u_hustdyrfag"
+    },
+    {
+        "name": "Dyrepleier",
+        "url": "/yrker/beskrivelse/dyrepleier",
+        "education_id": "main_u_hustdyrfag"
+    },
+    {
+        "name": "Finansanalytiker",
+        "url": "/yrker/beskrivelse/finansanalytiker",
+        "education_id": "main_u_finans"
+    },
+    {
+        "name": "Kunderådgiver i bank",
+        "url": "/yrker/beskrivelse/kunderadgiver_i_bank",
+        "education_id": "main_u_finans"
+    },
+    {
+        "name": "Branningeniør",
+        "url": "/yrker/beskrivelse/branningenior",
+        "education_id": "main_u_brannsikkerhet"
+    },
+    {
+        "name": "Kjemiingeniør",
+        "url": "/yrker/beskrivelse/kjemiingenior",
+        "education_id": "main_u_energi_miljo"
+    },
+    {
+        "name": "Marin bioteknolog",
+        "url": "/yrker/beskrivelse/marin_bioteknolog",
+        "education_id": "main_u_energi_miljo"
+    },
+    {
+        "name": "Petroleumsingeniør",
+        "url": "/yrker/beskrivelse/petroleumsingenior",
+        "education_id": "main_u_energi_miljo"
+    },
+    {
+        "name": "Marin bioteknolog",
+        "url": "/yrker/beskrivelse/marin_bioteknolog",
+        "education_id": "main_u_havteknologi"
+    },
+    {
+        "name": "Maskinist",
+        "url": "/yrker/beskrivelse/maskinist",
+        "education_id": "main_u_havteknologi"
+    },
+    {
+        "name": "Petroleumsingeniør",
+        "url": "/yrker/beskrivelse/petroleumsingenior",
+        "education_id": "main_u_havteknologi"
+    },
+    {
+        "name": "Arealplanlegger",
+        "url": "/yrker/beskrivelse/arealplanlegger",
+        "education_id": "main_u_by_og_regionplanlegging"
+    },
+    {
+        "name": "Misjonær",
+        "url": "/yrker/beskrivelse/misjonaer",
+        "education_id": "main_u_religion"
+    },
+    {
+        "name": "Arbeidsleder bygg og anlegg",
+        "url": "/yrker/beskrivelse/arbeidsleder_bygg_og_anlegg",
+        "education_id": "main_u_ledelse_fagskole"
+    },
+    {
+        "name": "Arbeidsleder innen industri og produksjon",
+        "url": "/yrker/beskrivelse/arbeidsleder_innen_industri_og_produksjon",
+        "education_id": "main_u_ledelse_fagskole"
+    },
+    {
+        "name": "Ridelærer",
+        "url": "/yrker/beskrivelse/ridelaerer",
+        "education_id": "main_u_hestefag_fagskole"
+    },
+    {
+        "name": "Ernæringskokk",
+        "url": "/yrker/beskrivelse/ernaeringskokk",
+        "education_id": "main_u_matogdrikke"
+    },
+    {
+        "name": "Fagarbeider industriell matproduksjon",
+        "url": "/yrker/beskrivelse/fagarbeider_industriell_matproduksjon",
+        "education_id": "main_u_matogdrikke"
+    },
+    {
+        "name": "Fagarbeider sjømatproduksjon",
+        "url": "/yrker/beskrivelse/fagarbeider_sjomatproduksjon",
+        "education_id": "main_u_matogdrikke"
+    },
+    {
+        "name": "Ferskvarehandler",
+        "url": "/yrker/beskrivelse/ferskvarehandler",
+        "education_id": "main_u_matogdrikke"
+    },
+    {
+        "name": "Kjøttskjærer",
+        "url": "/yrker/beskrivelse/kjottskjaerer",
+        "education_id": "main_u_matogdrikke"
+    },
+    {
+        "name": "Kokk",
+        "url": "/yrker/beskrivelse/kokk",
+        "education_id": "main_u_matogdrikke"
+    },
+    {
+        "name": "Pølsemaker",
+        "url": "/yrker/beskrivelse/polsemaker",
+        "education_id": "main_u_matogdrikke"
+    },
+    {
+        "name": "Danser",
+        "url": "/yrker/beskrivelse/danser",
+        "education_id": "main_u_skuespill"
+    },
+    {
+        "name": "Skuespiller",
+        "url": "/yrker/beskrivelse/skuespiller",
+        "education_id": "main_u_skuespill"
+    },
+    {
+        "name": "Filolog",
+        "url": "/yrker/beskrivelse/filolog",
+        "education_id": "main_u_nordisk"
+    },
+    {
+        "name": "Lingvist",
+        "url": "/yrker/beskrivelse/lingvist",
+        "education_id": "main_u_nordisk"
+    },
+    {
+        "name": "Litteraturviter",
+        "url": "/yrker/beskrivelse/litteraturviter",
+        "education_id": "main_u_nordisk"
+    },
+    {
+        "name": "Oversetter",
+        "url": "/yrker/beskrivelse/oversetter",
+        "education_id": "main_u_nordisk"
+    },
+    {
+        "name": "Forretningsutvikler",
+        "url": "/yrker/beskrivelse/forretningsutvikler",
+        "education_id": "main_u_forretningsjus_uh"
+    },
+    {
+        "name": "Økonom",
+        "url": "/yrker/beskrivelse/okonom",
+        "education_id": "main_u_forretningsjus_uh"
+    },
+    {
+        "name": "Toller",
+        "url": "/yrker/beskrivelse/toller",
+        "education_id": "main_u_tollerutdanning"
+    },
+    {
+        "name": "Arkivar",
+        "url": "/yrker/beskrivelse/arkivar",
+        "education_id": "main_u_arkiv_dokumentasjon"
+    },
+    {
+        "name": "Bibliotekar",
+        "url": "/yrker/beskrivelse/bibliotekar",
+        "education_id": "main_u_arkiv_dokumentasjon"
+    },
+    {
+        "name": "Barne- og ungdomsarbeider",
+        "url": "/yrker/beskrivelse/barne-_og_ungdomsarbeider",
+        "education_id": "main_u_veiledning"
+    },
+    {
+        "name": "Barnehageassistent",
+        "url": "/yrker/beskrivelse/barnehageassistent",
+        "education_id": "main_u_veiledning"
+    },
+    {
+        "name": "Helsefagarbeider",
+        "url": "/yrker/beskrivelse/helsefagarbeider",
+        "education_id": "main_u_veiledning"
+    },
+    {
+        "name": "Jobbveileder",
+        "url": "/yrker/beskrivelse/jobbveileder",
+        "education_id": "main_u_veiledning"
+    },
+    {
+        "name": "Anleggsmaskinfører",
+        "url": "/yrker/beskrivelse/anleggsmaskinforer",
+        "education_id": "main_u_miljo"
+    },
+    {
+        "name": "Arbeidsleder bygg og anlegg",
+        "url": "/yrker/beskrivelse/arbeidsleder_bygg_og_anlegg",
+        "education_id": "main_u_miljo"
+    },
+    {
+        "name": "Hjelpearbeider innen bygg og anlegg",
+        "url": "/yrker/beskrivelse/hjelpearbeider_innen_bygg_og_anlegg",
+        "education_id": "main_u_miljo"
+    },
+    {
+        "name": "Siviløkonom",
+        "url": "/yrker/beskrivelse/sivilokonom",
+        "education_id": "main_u_sivilokonomutdanning"
+    },
+    {
+        "name": "Barnehagestyrer",
+        "url": "/yrker/beskrivelse/barnehagestyrer",
+        "education_id": "main_u_evu_utdanningsledelse"
+    },
+    {
+        "name": "Rektor/skoleleder",
+        "url": "/yrker/beskrivelse/rektorskoleleder",
+        "education_id": "main_u_evu_utdanningsledelse"
+    },
+    {
+        "name": "Yrkesfaglærer",
+        "url": "/yrker/beskrivelse/yrkesfaglaerer",
+        "education_id": "main_u_yrkesfaglaerer_evu"
+    },
+    {
+        "name": "Ingeniør",
+        "url": "/yrker/beskrivelse/ingenior",
+        "education_id": "main_u_ingeniorer_evu"
+    },
+    {
+        "name": "Landmåler",
+        "url": "/yrker/beskrivelse/landmaler",
+        "education_id": "main_u_ingeniorer_evu"
+    },
+    {
+        "name": "Sivilingeniør",
+        "url": "/yrker/beskrivelse/sivilingenior",
+        "education_id": "main_u_ingeniorer_evu"
+    },
+    {
+        "name": "Dykker",
+        "url": "/yrker/beskrivelse/dykker",
+        "education_id": "main_u_dykker"
+    },
+    {
+        "name": "Barne- og ungdomspsykolog",
+        "url": "/yrker/beskrivelse/barne-_og_ungdomspsykolog",
+        "education_id": "main_u_profesjonpsy"
+    },
+    {
+        "name": "Psykolog",
+        "url": "/yrker/beskrivelse/psykolog",
+        "education_id": "main_u_profesjonpsy"
+    },
+    {
+        "name": "Petroleumsingeniør",
+        "url": "/yrker/beskrivelse/petroleumsingenior",
+        "education_id": "main_u_ingenior_petroleum"
+    },
+    {
+        "name": "Landmåler",
+        "url": "/yrker/beskrivelse/landmaler",
+        "education_id": "main_u_landmaeler"
+    },
+    {
+        "name": "Komponist",
+        "url": "/yrker/beskrivelse/komponist",
+        "education_id": "main_u_videreutdanning_kulturfag"
+    },
+    {
+        "name": "Musiker",
+        "url": "/yrker/beskrivelse/musiker",
+        "education_id": "main_u_videreutdanning_kulturfag"
+    },
+    {
+        "name": "Musikkpedagog",
+        "url": "/yrker/beskrivelse/musikkpedagog",
+        "education_id": "main_u_videreutdanning_kulturfag"
+    },
+    {
+        "name": "Musikkprodusent",
+        "url": "/yrker/beskrivelse/musikkprodusent",
+        "education_id": "main_u_videreutdanning_kulturfag"
+    },
+    {
+        "name": "Sangpedagog",
+        "url": "/yrker/beskrivelse/sangpedagog",
+        "education_id": "main_u_videreutdanning_kulturfag"
+    },
+    {
+        "name": "Interaksjonsdesigner",
+        "url": "/yrker/beskrivelse/interaksjonsdesigner",
+        "education_id": "main_u_tjenestedesign"
+    },
+    {
+        "name": "Anleggsmaskinfører",
+        "url": "/yrker/beskrivelse/anleggsmaskinforer",
+        "education_id": "main_u_anlegg"
+    },
+    {
+        "name": "Arbeidsleder bygg og anlegg",
+        "url": "/yrker/beskrivelse/arbeidsleder_bygg_og_anlegg",
+        "education_id": "main_u_anlegg"
+    },
+    {
+        "name": "Byggingeniør",
+        "url": "/yrker/beskrivelse/byggingenior",
+        "education_id": "main_u_anlegg"
+    },
+    {
+        "name": "Fjell- og bergverksarbeider",
+        "url": "/yrker/beskrivelse/fjell-_og_bergverksarbeider",
+        "education_id": "main_u_anlegg"
+    },
+    {
+        "name": "Hjelpearbeider innen bygg og anlegg",
+        "url": "/yrker/beskrivelse/hjelpearbeider_innen_bygg_og_anlegg",
+        "education_id": "main_u_anlegg"
+    },
+    {
+        "name": "Forretningsutvikler",
+        "url": "/yrker/beskrivelse/forretningsutvikler",
+        "education_id": "main_u_entreprenoer_innovasjon"
+    },
+    {
+        "name": "Gründer",
+        "url": "/yrker/beskrivelse/grunder",
+        "education_id": "main_u_entreprenoer_innovasjon"
+    }
+]
